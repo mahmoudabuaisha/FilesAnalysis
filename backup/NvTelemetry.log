@@ -1,0 +1,40 @@
+2022-09-20T12:48:22.546+0200 00002114 [I]: Running NvTelemetry version 14.3.60.0
+2022-09-20T12:48:22.546+0200 00002114 [I]: Creating TelemetryManager
+2022-09-20T12:48:22.546+0200 00002114 [I]: Initializing database
+2022-09-20T12:48:22.546+0200 00002114 [I]: Creating NvTelemetry persistency for events.dat
+2022-09-20T12:48:22.546+0200 00002114 [I]: Creating/checking database schema
+2022-09-20T12:48:22.562+0200 00002114 [I]: Creating TelemetryFilter
+2022-09-20T12:48:22.562+0200 00002114 [I]: Loading Telemetry filter state
+2022-09-20T12:48:22.562+0200 00002114 [I]: Telemetry filter file (telemetry_switch.ini) doesn't exist.
+2022-09-20T12:48:22.562+0200 00002114 [I]: Set device telemetry consent for clientId=873483746870124, levelFlags=0x1
+2022-09-20T12:48:22.562+0200 00002114 [I]: Saving Telemetry filter state
+2022-09-20T12:48:22.562+0200 00002114 [I]: Telemetry consent for clientId=873483746870124 is 1
+2022-09-20T12:48:22.562+0200 00002114 [I]: Creating ExperimentManager
+2022-09-20T12:48:22.562+0200 00002114 [I]: Generating deviceId
+2022-09-20T12:48:22.878+0200 00002114 [I]: Creating NvTelemetryEventManager
+2022-09-20T12:48:22.878+0200 00002114 [I]: Creating FeedbackSender
+2022-09-20T12:48:22.878+0200 00002114 [I]: Creating FeedbackManager
+2022-09-20T12:48:22.878+0200 00002114 [I]: Picking up old feedbacks
+2022-09-20T12:48:22.878+0200 00002114 [I]: Removing orphaned feedbacks
+2022-09-20T12:48:22.878+0200 00002114 [I]: Queueing completed feedbacks
+2022-09-20T12:48:22.878+0200 00002114 [I]: Creating StatisticsSender
+2022-09-20T12:48:22.878+0200 00002114 [I]: TelemetryManager created.
+2022-09-20T12:48:22.878+0200 00002114 [I]: DeviceId: 6c8b6d08530104da33802a73de54f6dcb28b5f689dd81e2f63482faaee5dc915
+2022-09-20T12:48:22.878+0200 00002114 [I]: Log level: 3
+2022-09-20T12:48:22.878+0200 00002114 [I]: Events endpoint: https://events.gfe.nvidia.com/v1.0/events/json
+2022-09-20T12:48:22.878+0200 00002114 [I]: GPU activation endpoint: https://activation.gfe.nvidia.com/v1.0/events/json
+2022-09-20T12:48:22.878+0200 00002114 [I]: Feedbacks endpoint: https://telemetry.gfe.nvidia.com/gfc/v2.0/head
+2022-09-20T12:48:22.878+0200 00002114 [I]: Feedback attachments endpoint: https://telemetry.gfe.nvidia.com/gfc/v2.0/attachment
+2022-09-20T12:48:22.878+0200 00002114 [I]: Set device telemetry consent for clientId=47535922458601261, levelFlags=0x1
+2022-09-20T12:48:22.878+0200 00002114 [I]: Saving Telemetry filter state
+2022-09-20T12:48:24.916+0200 00002114 [I]: Destroying TelemetryManager
+2022-09-20T12:48:24.928+0200 00002114 [I]: Destroying StatisticsSender
+2022-09-20T12:48:24.928+0200 00002114 [I]: Destroying FeedbackManager
+2022-09-20T12:48:24.928+0200 00002114 [I]: Destroying FeedbackSender
+2022-09-20T12:48:24.928+0200 00002114 [I]: Destroying NvTelemetryEventManager
+2022-09-20T12:48:24.928+0200 00002d7c [I]: Exit event sender thread
+2022-09-20T12:48:24.928+0200 000008c4 [I]: Exit event persister thread
+2022-09-20T12:48:24.928+0200 00002114 [I]: Destroying ExperimentManager
+2022-09-20T12:48:24.928+0200 00002114 [I]: Destroying TelemetryFilter
+2022-09-20T12:48:24.928+0200 00002114 [I]: Destroying NvTelemetry persistency
+2022-09-20T12:48:24.934+0200 00002114 [I]: Stopping logging.

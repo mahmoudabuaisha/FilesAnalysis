@@ -1,0 +1,47 @@
+1015-16:02:01.007 41DC Starting logging.
+1015-16:02:01.007 41DC Initialization complete.
+1015-16:02:01.009 41DC Entering NvProfileUpdaterPlugin_Start
+1015-16:02:01.009 41DC Device notification registered.
+1015-16:02:01.009 41DC Exiting NvProfileUpdaterPlugin_Start
+1015-16:02:01.009 4968 Waiting for global mutex... #0
+1015-16:02:01.010 4968 Mutex is acquired.
+1015-16:02:01.010 4968 Loading NvAPI to check if driver is working...
+1015-16:02:01.010 4968 Driver version: 45167
+1015-16:02:01.010 4968 Driver branch: r451_65
+1015-16:02:01.010 4968 First run was already done, skipping first run activities.
+1015-16:02:01.010 4968 Performing startup update check
+1015-16:02:01.010 4968 Waiting for global mutex... #0
+1015-16:02:01.010 4968 Mutex is acquired.
+1015-16:02:01.010 4968 Loading NvAPI...
+1015-16:02:01.011 4968 Driver version: 45167
+1015-16:02:01.011 4968 Driver branch: r451_65
+1015-16:02:01.011 4968 GFE is installed: 0
+1015-16:02:01.057 4968 GPU [256] flag NVSupportOptimus was not found.
+1015-16:02:01.063 4968 GPU [256] flag NvSupportMSHybrid: 1
+1015-16:02:01.095 4968 GPU [256] coproc status: 1
+1015-16:02:01.101 4968 GPU [256] flag NVSupportDisplayUpdate: 1
+1015-16:02:01.101 4968 OptimusSystem: 1
+1015-16:02:01.101 4968 NVSupportDisplayUpdate: 1
+1015-16:02:01.101 4968 Checking for OPTIMUS updates
+1015-16:02:01.105 4968 Going to apply Optimus update C:\ProgramData\NVIDIA Corporation\NvProfileUpdaterPlugin\optimus\update.dat
+1015-16:02:01.654 4968 NvUpdateWhiteList finished
+1015-16:02:01.698 4968 Going to use URL: https://services.gfe.nvidia.com/GFE/v1.0/profiles/Optimus?{"branch":"r451_65"}
+1015-16:02:02.240 4968 HTTP response code: 200
+1015-16:02:02.240 4968 Downloaded metadata: {"md5":"cd49be58d95a60600954e87cc3ea6821","sha256":"e478c9699129548cc93647fb898802faf772c6b1e8e9ed1db06d1c12a2c18da6","size":908303,"url":"http://download.gfe.nvidia.com/GFE/profiles/Optimus/Version2/31929862/nvcoproc.bin.gz","version":"31929862"}
+1015-16:02:02.240 4968 Metadata parsed.
+1015-16:02:02.240 4968 Both old and new metadata have the same version 31929862
+1015-16:02:02.240 4968 Checking for DRS updates
+1015-16:02:02.244 4968 Going to merge DRS update C:\ProgramData\NVIDIA Corporation\NvProfileUpdaterPlugin\drs\update.dat
+1015-16:02:02.244 4968 "C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\dbInstaller.exe" -update C:\ProgramData\NVIDIA Corporation\NvProfileUpdaterPlugin\drs\update.dat
+1015-16:02:02.508 4968 dbInstaller finished with code 1
+1015-16:02:02.508 4968 Going to use URL: https://services.gfe.nvidia.com/GFE/v1.0/profiles/DRS?{"branch":"r451_65"}
+1015-16:02:03.220 4968 HTTP response code: 200
+1015-16:02:03.220 4968 Downloaded metadata: {"md5":"8d3f736b82546c343c0cf72b939a5c0f","sha256":"6651e28c7952675b9690104640048380a458fe752979a5ef45cbe0b99919d06d","size":250,"url":"http://download.gfe.nvidia.com/GFE/profiles/DRS/r451_65/28845482/update.bin.gz","version":"28845482"}
+1015-16:02:03.220 4968 Metadata parsed.
+1015-16:02:03.220 4968 Both old and new metadata have the same version 28845482
+1015-16:02:03.220 4968 Waiting for next check or notification for 1440 minutes...
+1015-16:02:03.978 41DC Entering NvProfileUpdaterPlugin_Stop
+1015-16:02:03.978 41DC Unregistering device notification.
+1015-16:02:03.978 41DC Stopping working thread...
+1015-16:02:03.978 4968 Exiting WorkingThread
+1015-16:02:03.978 41DC Exiting NvProfileUpdaterPlugin_Stop

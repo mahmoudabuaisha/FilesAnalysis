@@ -1,0 +1,67 @@
+1006-15:51:46.921 1C90 Starting logging.
+1006-15:51:46.921 1C90 Initialization complete.
+1006-15:51:46.923 1C90 Entering NvProfileUpdaterPlugin_Start
+1006-15:51:46.923 1C90 Device notification registered.
+1006-15:51:46.923 1C90 Exiting NvProfileUpdaterPlugin_Start
+1006-15:51:46.924 19D4 Waiting for global mutex... #0
+1006-15:51:46.924 19D4 Mutex is acquired.
+1006-15:51:46.924 19D4 Loading NvAPI to check if driver is working...
+1006-15:51:46.924 19D4 Driver version: 45167
+1006-15:51:46.924 19D4 Driver branch: r451_65
+1006-15:51:46.924 19D4 First run was already done, skipping first run activities.
+1006-15:51:46.925 19D4 Performing startup update check
+1006-15:51:46.925 19D4 Waiting for global mutex... #0
+1006-15:51:46.925 19D4 Mutex is acquired.
+1006-15:51:46.925 19D4 Loading NvAPI...
+1006-15:51:46.925 19D4 Driver version: 45167
+1006-15:51:46.925 19D4 Driver branch: r451_65
+1006-15:51:46.925 19D4 GFE is installed: 0
+1006-15:51:46.946 19D4 GPU [256] flag NVSupportOptimus was not found.
+1006-15:51:46.953 19D4 GPU [256] flag NvSupportMSHybrid: 1
+1006-15:51:46.954 19D4 GPU [256] coproc status: 1
+1006-15:51:46.961 19D4 GPU [256] flag NVSupportDisplayUpdate: 1
+1006-15:51:46.961 19D4 OptimusSystem: 1
+1006-15:51:46.961 19D4 NVSupportDisplayUpdate: 1
+1006-15:51:46.961 19D4 Checking for OPTIMUS updates
+1006-15:51:46.961 19D4 Going to apply Optimus update C:\ProgramData\NVIDIA Corporation\NvProfileUpdaterPlugin\optimus\update.dat
+1006-15:51:48.305 19D4 NvUpdateWhiteList finished
+1006-15:51:48.348 19D4 Going to use URL: https://services.gfe.nvidia.com/GFE/v1.0/profiles/Optimus?{"branch":"r451_65"}
+1007-14:44:39.181 19D4 Cannot update Optimus profiles: WinHttpSendRequest failed with 12030 at C:\dvs\p4\build\sw\rel\gpu_drv\r450\r451_65\drivers\common\nvdrslib\NvProfileUpdaterPlugin\gfehttpaccess.cpp:544
+1007-14:44:39.182 19D4 Failed to check for profile updates: WinHttpSendRequest failed with 12030 at C:\dvs\p4\build\sw\rel\gpu_drv\r450\r451_65\drivers\common\nvdrslib\NvProfileUpdaterPlugin\gfehttpaccess.cpp:544
+1007-14:44:39.182 19D4 Waiting for next check or notification for 1 minutes...
+1007-14:45:39.193 19D4 Performing scheduled update check
+1007-14:45:39.194 19D4 Waiting for global mutex... #0
+1007-14:45:39.194 19D4 Mutex is acquired.
+1007-14:45:39.194 19D4 Loading NvAPI...
+1007-14:45:39.194 19D4 Driver version: 45167
+1007-14:45:39.194 19D4 Driver branch: r451_65
+1007-14:45:39.194 19D4 GFE is installed: 0
+1007-14:45:39.215 19D4 GPU [256] flag NVSupportOptimus was not found.
+1007-14:45:39.221 19D4 GPU [256] flag NvSupportMSHybrid: 1
+1007-14:45:39.222 19D4 GPU [256] coproc status: 1
+1007-14:45:39.227 19D4 GPU [256] flag NVSupportDisplayUpdate: 1
+1007-14:45:39.227 19D4 OptimusSystem: 1
+1007-14:45:39.227 19D4 NVSupportDisplayUpdate: 1
+1007-14:45:39.227 19D4 Checking for OPTIMUS updates
+1007-14:45:39.228 19D4 Going to apply Optimus update C:\ProgramData\NVIDIA Corporation\NvProfileUpdaterPlugin\optimus\update.dat
+1007-14:45:39.802 19D4 NvUpdateWhiteList finished
+1007-14:45:39.862 19D4 Going to use URL: https://services.gfe.nvidia.com/GFE/v1.0/profiles/Optimus?{"branch":"r451_65"}
+1007-14:45:40.388 19D4 HTTP response code: 200
+1007-14:45:40.388 19D4 Downloaded metadata: {"md5":"890a0f366bf62aa974b6867bbf5c9dee","sha256":"3afcdf997e760d399e1690fa077bd015f0416268d5e2daba6db379a1b873cf33","size":907838,"url":"http://download.gfe.nvidia.com/GFE/profiles/Optimus/Version2/31831295/nvcoproc.bin.gz","version":"31831295"}
+1007-14:45:40.388 19D4 Metadata parsed.
+1007-14:45:40.388 19D4 Both old and new metadata have the same version 31831295
+1007-14:45:40.388 19D4 Checking for DRS updates
+1007-14:45:40.388 19D4 Going to merge DRS update C:\ProgramData\NVIDIA Corporation\NvProfileUpdaterPlugin\drs\update.dat
+1007-14:45:40.388 19D4 "C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\dbInstaller.exe" -update C:\ProgramData\NVIDIA Corporation\NvProfileUpdaterPlugin\drs\update.dat
+1007-14:45:40.652 19D4 dbInstaller finished with code 1
+1007-14:45:40.652 19D4 Going to use URL: https://services.gfe.nvidia.com/GFE/v1.0/profiles/DRS?{"branch":"r451_65"}
+1007-14:45:41.022 19D4 HTTP response code: 200
+1007-14:45:41.022 19D4 Downloaded metadata: {"md5":"8d3f736b82546c343c0cf72b939a5c0f","sha256":"6651e28c7952675b9690104640048380a458fe752979a5ef45cbe0b99919d06d","size":250,"url":"http://download.gfe.nvidia.com/GFE/profiles/DRS/r451_65/28845482/update.bin.gz","version":"28845482"}
+1007-14:45:41.022 19D4 Metadata parsed.
+1007-14:45:41.022 19D4 Both old and new metadata have the same version 28845482
+1007-14:45:41.022 19D4 Waiting for next check or notification for 1440 minutes...
+1007-23:56:24.690 1C90 Entering NvProfileUpdaterPlugin_Stop
+1007-23:56:24.690 1C90 Unregistering device notification.
+1007-23:56:24.690 1C90 Stopping working thread...
+1007-23:56:24.692 19D4 Exiting WorkingThread
+1007-23:56:24.693 1C90 Exiting NvProfileUpdaterPlugin_Stop

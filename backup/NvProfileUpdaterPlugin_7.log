@@ -1,0 +1,44 @@
+1009-15:35:26.887 3664 Starting logging.
+1009-15:35:26.887 3664 Initialization complete.
+1009-15:35:26.890 3664 Entering NvProfileUpdaterPlugin_Start
+1009-15:35:26.890 3664 Device notification registered.
+1009-15:35:26.890 3664 Exiting NvProfileUpdaterPlugin_Start
+1009-15:35:26.890 1FC4 Waiting for global mutex... #0
+1009-15:35:26.890 1FC4 Mutex is acquired.
+1009-15:35:26.890 1FC4 Loading NvAPI to check if driver is working...
+1009-15:35:26.891 1FC4 Driver version: 45167
+1009-15:35:26.891 1FC4 Driver branch: r451_65
+1009-15:35:26.891 1FC4 First run was already done, skipping first run activities.
+1009-15:35:26.891 1FC4 Performing startup update check
+1009-15:35:26.891 1FC4 Waiting for global mutex... #0
+1009-15:35:26.891 1FC4 Mutex is acquired.
+1009-15:35:26.891 1FC4 Loading NvAPI...
+1009-15:35:26.892 1FC4 Driver version: 45167
+1009-15:35:26.892 1FC4 Driver branch: r451_65
+1009-15:35:26.892 1FC4 GFE is installed: 0
+1009-15:35:26.950 1FC4 GPU [256] flag NVSupportOptimus was not found.
+1009-15:35:26.957 1FC4 GPU [256] flag NvSupportMSHybrid: 1
+1009-15:35:27.031 1FC4 GPU [256] coproc status: 1
+1009-15:35:27.036 1FC4 GPU [256] flag NVSupportDisplayUpdate: 1
+1009-15:35:27.036 1FC4 OptimusSystem: 1
+1009-15:35:27.036 1FC4 NVSupportDisplayUpdate: 1
+1009-15:35:27.036 1FC4 Checking for OPTIMUS updates
+1009-15:35:27.040 1FC4 Going to apply Optimus update C:\ProgramData\NVIDIA Corporation\NvProfileUpdaterPlugin\optimus\update.dat
+1009-15:35:27.808 1FC4 NvUpdateWhiteList finished
+1009-15:35:27.851 1FC4 Going to use URL: https://services.gfe.nvidia.com/GFE/v1.0/profiles/Optimus?{"branch":"r451_65"}
+1009-15:35:29.861 1FC4 HTTP response code: 200
+1009-15:35:29.861 1FC4 Downloaded metadata: {"md5":"890a0f366bf62aa974b6867bbf5c9dee","sha256":"3afcdf997e760d399e1690fa077bd015f0416268d5e2daba6db379a1b873cf33","size":907838,"url":"http://download.gfe.nvidia.com/GFE/profiles/Optimus/Version2/31831295/nvcoproc.bin.gz","version":"31831295"}
+1009-15:35:29.861 1FC4 Metadata parsed.
+1009-15:35:29.861 1FC4 Both old and new metadata have the same version 31831295
+1009-15:35:29.861 1FC4 Checking for DRS updates
+1009-15:35:29.865 1FC4 Going to merge DRS update C:\ProgramData\NVIDIA Corporation\NvProfileUpdaterPlugin\drs\update.dat
+1009-15:35:29.865 1FC4 "C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\dbInstaller.exe" -update C:\ProgramData\NVIDIA Corporation\NvProfileUpdaterPlugin\drs\update.dat
+1009-15:35:30.112 1FC4 dbInstaller finished with code 1
+1009-15:35:30.112 1FC4 Going to use URL: https://services.gfe.nvidia.com/GFE/v1.0/profiles/DRS?{"branch":"r451_65"}
+1009-15:35:30.430 3664 Entering NvProfileUpdaterPlugin_Stop
+1009-15:35:30.430 3664 Unregistering device notification.
+1009-15:35:30.430 3664 Stopping working thread...
+1009-15:35:30.554 1FC4 HTTP response code: 200
+1009-15:35:30.554 1FC4 Downloaded metadata: {"md5":"8d3f736b82546c343c0cf72b939a5c0f","sha256":"6651e28c7952675b9690104640048380a458fe752979a5ef45cbe0b99919d06d","size":250,"url":"http://download.gfe.nvidia.com/GFE/profiles/DRS/r451_65/28845482/update.bin.gz","version":"28845482"}
+1009-15:35:30.554 1FC4 Metadata parsed.
+1009-15:35:30.554 1FC4 Both old and new metadata have the same version 28845482

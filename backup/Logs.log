@@ -1,0 +1,8 @@
+﻿2022-09-20 14:09:02.586 15192:00000001 (Unknown) INFO: Finding closest locale match to en-US
+2022-09-20 14:09:02.630 15192:00000001 (BlueStacksInstaller) INFO: Match found by region: en-US
+2022-09-20 14:09:03.665 15192:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "PS", "latlong": "0.000000,0.000000"}
+2022-09-20 14:09:03.674 15192:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2022-09-20 14:09:05.301 14952:00000001 (Unknown) INFO: Finding closest locale match to en-US
+2022-09-20 14:09:05.345 14952:00000001 (BlueStacksInstaller) INFO: Match found by region: en-US
+2022-09-20 14:09:06.325 14952:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "PS", "latlong": "0.000000,0.000000"}
+2022-09-20 14:09:06.334 14952:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com

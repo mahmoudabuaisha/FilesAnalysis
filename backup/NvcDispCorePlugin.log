@@ -1,0 +1,12 @@
+#0(I)[2022-10-13 10:56:36,575]{00000720}<PluginContext>    PluginContext::Initialize called
+#1(I)[2022-10-13 10:56:36,575]{00000720}<PluginContext>    Plugin-File C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\LocalSystem\NvcDispCorePlugin.dll
+#2(I)[2022-10-13 10:56:36,575]{00000720}<PluginContext>    File-Version 27.21.14.5167
+#3(I)[2022-10-13 10:56:36,575]{00000720}<DBInstallerUtil>  nvCreateProcess for dbInstaller.exe successful
+#4(I)[2022-10-13 10:56:36,575]{00000720}<PluginContext>    PluginContext::Initialize finished with result 1
+#5(I)[2022-10-13 10:56:36,575]{00000720}<PluginContext>    PluginContext::Start called
+#6(I)[2022-10-13 10:56:36,575]{00000720}<PluginContext>    No siblings disabled from INF. Notifying container with NVPLUGIN_NOTIFICATION_DONE
+#7(I)[2022-10-13 10:56:36,575]{00000720}<PluginContext>    PluginContext::Start finished with result 1
+#8(I)[2022-10-13 10:56:36,591]{00000720}<PluginContext>    PluginContext::Stop called
+#9(I)[2022-10-13 10:56:36,591]{00000720}<PluginContext>    PluginContext::Stop finished
+#0(I)[2022-10-13 10:56:36,591]{00000720}<PluginContext>    PluginContext::Uninitialize called
+#1(I)[2022-10-13 10:56:36,591]{00000720}<PluginContext>    PluginContext::Uninitialize finished

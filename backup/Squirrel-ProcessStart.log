@@ -1,0 +1,5 @@
+﻿[12/10/22 14:47:00] info: Program: Starting Squirrel Updater: --processStartAndWait GitHubDesktop.exe
+[12/10/22 14:47:00] info: Program: Want to launch 'C:\Users\acer\AppData\Local\GitHubDesktop\app-3.1.1\GitHubDesktop.exe'
+[12/10/22 14:47:00] info: Program: About to wait for parent PID 14964
+[12/10/22 14:47:00] info: Program: About to launch: 'C:\Users\acer\AppData\Local\GitHubDesktop\app-3.1.1\GitHubDesktop.exe': 
+[12/10/22 14:47:00] info: Program: Finished Squirrel Updater

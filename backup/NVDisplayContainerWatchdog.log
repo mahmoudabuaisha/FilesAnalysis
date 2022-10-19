@@ -1,0 +1,1024 @@
+#0(I)[2022-10-13 10:56:36,575]{00000720}<NvpChildGroup>    Add watchdog for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session - 'C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe' : '-f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session' : 10/300/5 : elevated : '' 
+#1(I)[2022-10-13 10:56:36,575]{00000720}<DirectoryListene> Adding directory C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session.
+#2(D)[2022-10-13 10:56:36,575]{00000720}<DirectoryListene> Total number of current directories is 1.
+#3(D)[2022-10-13 10:56:36,575]{00000B10}<DirectoryListene> Directory change listener thread started
+#4(D)[2022-10-13 10:56:36,575]{00000720}<DirectoryListene> Directory listener thread started.
+#5(D)[2022-10-13 10:56:36,591]{00000B20}<NvpWatchdog>      Skip session 1 - 'Console' in state 2
+#6(I)[2022-10-13 10:56:36,591]{00000B20}<NvpWatchdog>      Running sessions = 0, user sessions = 0 & service session
+#7(D)[2022-10-13 10:56:36,591]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-13 10:56:36,591]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-13 10:56:36,591]{00000B20}<NvpChildGroup>    Group =>
+#0(D)[2022-10-13 10:56:36,591]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(D)[2022-10-13 10:56:36,591]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#2(D)[2022-10-13 10:56:36,591]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#3(D)[2022-10-13 10:56:36,591]{00000B20}<NvpChildGroup>        Processes =>
+#4(D)[2022-10-13 10:56:36,591]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-13 10:56:36,591]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 10:56:36,591]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-13 10:56:36,591]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-13 10:56:36,591]{00000B20}<NvpChildGroup>    Group =>
+#9(D)[2022-10-13 10:56:36,591]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(D)[2022-10-13 10:56:36,591]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#1(D)[2022-10-13 10:56:36,591]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#2(D)[2022-10-13 10:56:36,591]{00000B20}<NvpChildGroup>        Processes =>
+#3(D)[2022-10-13 10:56:36,591]{00000B20}<NvpWatchdog>      Wait for 3 handles. Timeout = 4294967295
+#4(I)[2022-10-13 10:56:48,360]{00000720}<NvpWatchdog>      Session 1 event 1: Console Connect
+#5(I)[2022-10-13 10:56:48,360]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#6(I)[2022-10-13 10:56:48,360]{00000B20}<NvpWatchdog>      Session event was signaled
+#7(I)[2022-10-13 10:56:48,360]{00000B20}<NvpWatchdog>          Running session 1 - 'Console'
+#8(I)[2022-10-13 10:56:48,360]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 0 & service session
+#9(D)[2022-10-13 10:56:48,360]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-13 10:56:48,360]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(I)[2022-10-13 10:56:48,360]{00000720}<NvpWatchdog>      Session 1 event 1: Console Connect
+#2(I)[2022-10-13 10:56:48,360]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#3(D)[2022-10-13 10:56:48,360]{00000B20}<NvpChildGroup>    Group =>
+#4(D)[2022-10-13 10:56:48,360]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#5(D)[2022-10-13 10:56:48,360]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#6(D)[2022-10-13 10:56:48,360]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#7(D)[2022-10-13 10:56:48,360]{00000B20}<NvpChildGroup>        Processes =>
+#8(D)[2022-10-13 10:56:48,360]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-13 10:56:48,360]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(I)[2022-10-13 10:56:48,360]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(I)[2022-10-13 10:56:48,360]{00000B20}<NvpChildProcess>  Run container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session in session 1
+#2(I)[2022-10-13 10:56:48,360]{00000B20}<NvpChildProcess>  Use quit event 'Global\NvContainer1828-session1-c:_windows_system32_driverstore_filerepository_nvacegpu.inf_amd64_efe127e721dd1bb8_display.nvcontainer_plugins_session' (error = 0) for elevated container 'C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session'
+#3(D)[2022-10-13 10:56:48,376]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-13 10:56:48,376]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>    Group =>
+#6(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#7(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#8(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#9(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Processes =>
+#0(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildProcess>          Session 1, process 00000000000006F0
+#1(D)[2022-10-13 10:56:48,376]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 4294967295
+#2(I)[2022-10-13 10:56:48,376]{00000B20}<NvpWatchdog>      Session event was signaled
+#3(I)[2022-10-13 10:56:48,376]{00000B20}<NvpWatchdog>          Running session 1 - 'Console'
+#4(I)[2022-10-13 10:56:48,376]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 0 & service session
+#5(D)[2022-10-13 10:56:48,376]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 10:56:48,376]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>    Group =>
+#8(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#0(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#1(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Processes =>
+#2(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildProcess>          Session 1, process 00000000000006F0
+#3(D)[2022-10-13 10:56:48,376]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-13 10:56:48,376]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(I)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#6(I)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>    Container 00000000000006F0 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 1
+#7(D)[2022-10-13 10:56:48,376]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-13 10:56:48,376]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>    Group =>
+#0(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#2(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#3(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildGroup>        Processes =>
+#4(D)[2022-10-13 10:56:48,376]{00000B20}<NvpChildProcess>          Session 1, process 00000000000006F0
+#5(D)[2022-10-13 10:56:48,376]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 4294967295
+#6(I)[2022-10-13 10:56:48,555]{00000720}<NvpWatchdog>      Session 1 event 5: Logon
+#7(I)[2022-10-13 10:56:48,555]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#8(I)[2022-10-13 10:56:48,555]{00000720}<NvpWatchdog>      Session 1 event 5: Logon
+#9(I)[2022-10-13 10:56:48,555]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#0(I)[2022-10-13 10:56:48,555]{00000B20}<NvpWatchdog>      Session event was signaled
+#1(I)[2022-10-13 10:56:48,555]{00000B20}<NvpWatchdog>          User session 1 - 'Console'
+#2(I)[2022-10-13 10:56:48,555]{00000B20}<NvpWatchdog>          Running session 1 - 'Console'
+#3(I)[2022-10-13 10:56:48,555]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#4(D)[2022-10-13 10:56:48,555]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-13 10:56:48,555]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>    Group =>
+#7(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#8(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#9(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#0(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>        Processes =>
+#1(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildProcess>          Session 1, process 00000000000006F0
+#2(D)[2022-10-13 10:56:48,555]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-13 10:56:48,555]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(I)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#5(I)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>    Container 00000000000006F0 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 1
+#6(D)[2022-10-13 10:56:48,555]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-13 10:56:48,555]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>    Group =>
+#9(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#1(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#2(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildGroup>        Processes =>
+#3(D)[2022-10-13 10:56:48,555]{00000B20}<NvpChildProcess>          Session 1, process 00000000000006F0
+#4(D)[2022-10-13 10:56:48,555]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 4294967295
+#5(I)[2022-10-13 10:56:49,274]{00000720}<NvpWatchdog>      Session 1 event 7: Lock
+#6(I)[2022-10-13 10:56:49,274]{00000720}<NvpWatchdog>      Session 1 event 7: Lock
+#7(I)[2022-10-13 10:56:58,298]{00000720}<NvpWatchdog>      Session 1 event 8: Unlock
+#8(I)[2022-10-13 10:56:58,298]{00000720}<NvpWatchdog>      Session 1 event 8: Unlock
+#9(I)[2022-10-13 12:32:59,293]{00000B20}<NvpWatchdog>      Process with index 0 exited
+#0(D)[2022-10-13 12:32:59,293]{00000B20}<NvpChildGroup>    Found container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session, session 1
+#1(I)[2022-10-13 12:32:59,293]{00000B20}<NvpChildProcess>  Container 00000000000006F0 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session exited with 40010004
+#2(D)[2022-10-13 12:32:59,293]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-13 12:32:59,293]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-13 12:32:59,293]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-13 12:32:59,293]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 12:32:59,293]{00000B20}<NvpChildGroup>    Group =>
+#7(D)[2022-10-13 12:32:59,293]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#8(D)[2022-10-13 12:32:59,293]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#9(D)[2022-10-13 12:32:59,293]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#0(D)[2022-10-13 12:32:59,293]{00000B20}<NvpChildGroup>        Processes =>
+#1(D)[2022-10-13 12:32:59,293]{00000B20}<NvpChildProcess>          Session 1, process 0000000000000000
+#2(D)[2022-10-13 12:32:59,293]{00000B20}<NvpWatchdog>      Wait for 3 handles. Timeout = 10000
+#3(I)[2022-10-13 12:32:59,387]{00000720}<NvpWatchdog>      Session 2 event 3: Remote Connect
+#4(I)[2022-10-13 12:32:59,387]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#5(I)[2022-10-13 12:32:59,387]{00000720}<NvpWatchdog>      Session 2 event 3: Remote Connect
+#6(I)[2022-10-13 12:32:59,387]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#7(I)[2022-10-13 12:32:59,387]{00000B20}<NvpWatchdog>      Session event was signaled
+#8(I)[2022-10-13 12:32:59,387]{00000B20}<NvpWatchdog>          User session 1 - 'Console'
+#9(I)[2022-10-13 12:32:59,387]{00000B20}<NvpWatchdog>          Running session 1 - 'Console'
+#0(D)[2022-10-13 12:32:59,387]{00000B20}<NvpWatchdog>      Skip black listed session 2 - 'Glass' in state 1
+#1(I)[2022-10-13 12:32:59,387]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#2(D)[2022-10-13 12:32:59,387]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-13 12:32:59,387]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-13 12:32:59,387]{00000B20}<NvpChildGroup>    Group =>
+#5(D)[2022-10-13 12:32:59,387]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#6(D)[2022-10-13 12:32:59,387]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#7(D)[2022-10-13 12:32:59,387]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#8(D)[2022-10-13 12:32:59,387]{00000B20}<NvpChildGroup>        Processes =>
+#9(D)[2022-10-13 12:32:59,387]{00000B20}<NvpChildProcess>          Session 1, process 0000000000000000
+#0(D)[2022-10-13 12:32:59,387]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-13 12:32:59,387]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(I)[2022-10-13 12:32:59,387]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#3(I)[2022-10-13 12:32:59,387]{00000B20}<NvpChildGroup>    Container C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session completed with an error 1073807364, but was not restarted immediately. Restart now
+#4(I)[2022-10-13 12:32:59,387]{00000B20}<NvpChildProcess>  Run container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session in session 1
+#5(D)[2022-10-13 12:32:59,418]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 12:32:59,418]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-13 12:32:59,418]{00000B20}<NvpChildGroup>    Group =>
+#8(D)[2022-10-13 12:32:59,418]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(D)[2022-10-13 12:32:59,418]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#0(D)[2022-10-13 12:32:59,418]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#1(D)[2022-10-13 12:32:59,418]{00000B20}<NvpChildGroup>        Processes =>
+#2(D)[2022-10-13 12:32:59,418]{00000B20}<NvpChildProcess>          Session 1, process 000000000000041C
+#3(D)[2022-10-13 12:32:59,418]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#4(I)[2022-10-13 12:33:09,431]{00000B20}<NvpWatchdog>      Timeout for a short wait of 10000 ms
+#5(I)[2022-10-13 12:33:09,431]{00000B20}<NvpWatchdog>          User session 1 - 'Console'
+#6(I)[2022-10-13 12:33:09,431]{00000B20}<NvpWatchdog>          Running session 1 - 'Console'
+#7(D)[2022-10-13 12:33:09,431]{00000B20}<NvpWatchdog>      Skip black listed session 2 - 'Glass' in state 1
+#8(I)[2022-10-13 12:33:09,431]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#9(D)[2022-10-13 12:33:09,431]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-13 12:33:09,431]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>    Group =>
+#2(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#3(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#4(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#5(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>        Processes =>
+#6(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildProcess>          Session 1, process 000000000000041C
+#7(D)[2022-10-13 12:33:09,431]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-13 12:33:09,431]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(I)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(I)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>    Container 000000000000041C for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 1
+#1(D)[2022-10-13 12:33:09,431]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-13 12:33:09,431]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>    Group =>
+#4(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#5(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#6(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#7(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildGroup>        Processes =>
+#8(D)[2022-10-13 12:33:09,431]{00000B20}<NvpChildProcess>          Session 1, process 000000000000041C
+#9(D)[2022-10-13 12:33:09,431]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 4294967295
+#0(I)[2022-10-13 12:33:12,055]{00000B20}<NvpWatchdog>      Process with index 0 exited
+#1(D)[2022-10-13 12:33:12,055]{00000B20}<NvpChildGroup>    Found container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session, session 1
+#2(I)[2022-10-13 12:33:12,055]{00000B20}<NvpChildProcess>  Container 000000000000041C for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session exited with 40010004
+#3(D)[2022-10-13 12:33:12,055]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-13 12:33:12,055]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-13 12:33:12,055]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 12:33:12,055]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-13 12:33:12,055]{00000B20}<NvpChildGroup>    Group =>
+#8(D)[2022-10-13 12:33:12,055]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(D)[2022-10-13 12:33:12,055]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#0(D)[2022-10-13 12:33:12,055]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#1(D)[2022-10-13 12:33:12,055]{00000B20}<NvpChildGroup>        Processes =>
+#2(D)[2022-10-13 12:33:12,055]{00000B20}<NvpChildProcess>          Session 1, process 0000000000000000
+#3(D)[2022-10-13 12:33:12,055]{00000B20}<NvpWatchdog>      Wait for 3 handles. Timeout = 10000
+#4(I)[2022-10-13 12:33:12,586]{00000720}<NvpWatchdog>      Session 1 event 6: Logoff
+#5(I)[2022-10-13 12:33:12,586]{00000720}<NvpWatchdog>      Session 1 event 6: Logoff
+#6(I)[2022-10-13 12:33:15,227]{00000720}<NvpWatchdog>      Session 1 event 2: Console Disconnect
+#7(I)[2022-10-13 12:33:15,227]{00000720}<NvpWatchdog>      Session 1 event 2: Console Disconnect
+#8(I)[2022-10-13 12:33:15,493]{00000720}<NvpWatchdog>      Session 2 event 4: Remote Disconnect
+#9(I)[2022-10-13 12:33:15,493]{00000720}<NvpWatchdog>      Session 2 event 4: Remote Disconnect
+#0(I)[2022-10-13 12:33:15,641]{00000720}<NvpWatchdog>      Session 2 event 1: Console Connect
+#1(I)[2022-10-13 12:33:15,641]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#2(I)[2022-10-13 12:33:15,641]{00000B20}<NvpWatchdog>      Session event was signaled
+#3(D)[2022-10-13 12:33:15,641]{00000B20}<NvpWatchdog>      Skip session 1 - '' in state 8
+#4(I)[2022-10-13 12:33:15,641]{00000B20}<NvpWatchdog>          Running session 2 - 'Console'
+#5(I)[2022-10-13 12:33:15,641]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 0 & service session
+#6(I)[2022-10-13 12:33:15,641]{00000720}<NvpWatchdog>      Session 2 event 1: Console Connect
+#7(I)[2022-10-13 12:33:15,641]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#8(D)[2022-10-13 12:33:15,641]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-13 12:33:15,641]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-13 12:33:15,641]{00000B20}<NvpChildGroup>    Group =>
+#1(D)[2022-10-13 12:33:15,641]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#2(D)[2022-10-13 12:33:15,641]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#3(D)[2022-10-13 12:33:15,641]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#4(D)[2022-10-13 12:33:15,641]{00000B20}<NvpChildGroup>        Processes =>
+#5(D)[2022-10-13 12:33:15,641]{00000B20}<NvpChildProcess>          Session 1, process 0000000000000000
+#6(D)[2022-10-13 12:33:15,641]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-13 12:33:15,641]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(I)[2022-10-13 12:33:15,641]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(I)[2022-10-13 12:33:15,641]{00000B20}<NvpChildProcess>  Run container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session in session 2
+#0(I)[2022-10-13 12:33:15,641]{00000B20}<NvpChildProcess>  Use quit event 'Global\NvContainer1828-session2-c:_windows_system32_driverstore_filerepository_nvacegpu.inf_amd64_efe127e721dd1bb8_display.nvcontainer_plugins_session' (error = 0) for elevated container 'C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session'
+#1(I)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>    Cleaning up session 1 that is no longer active
+#2(D)[2022-10-13 12:33:15,672]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-13 12:33:15,672]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>    Group =>
+#5(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#6(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#7(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#8(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>        Processes =>
+#9(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildProcess>          Session 2, process 00000000000003F8
+#0(D)[2022-10-13 12:33:15,672]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#1(I)[2022-10-13 12:33:15,672]{00000B20}<NvpWatchdog>      Session event was signaled
+#2(D)[2022-10-13 12:33:15,672]{00000B20}<NvpWatchdog>      Skip session 1 - '' in state 8
+#3(I)[2022-10-13 12:33:15,672]{00000B20}<NvpWatchdog>          Running session 2 - 'Console'
+#4(I)[2022-10-13 12:33:15,672]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 0 & service session
+#5(D)[2022-10-13 12:33:15,672]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 12:33:15,672]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>    Group =>
+#8(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#0(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#1(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>        Processes =>
+#2(D)[2022-10-13 12:33:15,672]{00000B20}<NvpChildProcess>          Session 2, process 00000000000003F8
+#3(D)[2022-10-13 12:33:15,672]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-13 12:33:15,672]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(I)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#6(I)[2022-10-13 12:33:15,672]{00000B20}<NvpChildGroup>    Container 00000000000003F8 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 2
+#7(D)[2022-10-13 12:33:15,688]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-13 12:33:15,688]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-13 12:33:15,688]{00000B20}<NvpChildGroup>    Group =>
+#0(D)[2022-10-13 12:33:15,688]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(D)[2022-10-13 12:33:15,688]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#2(D)[2022-10-13 12:33:15,688]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#3(D)[2022-10-13 12:33:15,688]{00000B20}<NvpChildGroup>        Processes =>
+#4(D)[2022-10-13 12:33:15,688]{00000B20}<NvpChildProcess>          Session 2, process 00000000000003F8
+#5(D)[2022-10-13 12:33:15,688]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#6(I)[2022-10-13 14:29:48,666]{00000720}<NvpWatchdog>      Session 2 event 5: Logon
+#7(I)[2022-10-13 14:29:48,666]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#8(I)[2022-10-13 14:29:48,666]{00000720}<NvpWatchdog>      Session 2 event 5: Logon
+#9(I)[2022-10-13 14:29:48,666]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#0(I)[2022-10-13 14:29:48,666]{00000B20}<NvpWatchdog>      Session event was signaled
+#1(I)[2022-10-13 14:29:48,666]{00000B20}<NvpWatchdog>          User session 2 - 'Console'
+#2(I)[2022-10-13 14:29:48,666]{00000B20}<NvpWatchdog>          Running session 2 - 'Console'
+#3(I)[2022-10-13 14:29:48,666]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#4(D)[2022-10-13 14:29:48,666]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-13 14:29:48,666]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>    Group =>
+#7(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#8(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#9(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#0(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>        Processes =>
+#1(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildProcess>          Session 2, process 00000000000003F8
+#2(D)[2022-10-13 14:29:48,666]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-13 14:29:48,666]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(I)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#5(I)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>    Container 00000000000003F8 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 2
+#6(D)[2022-10-13 14:29:48,666]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-13 14:29:48,666]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>    Group =>
+#9(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#1(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#2(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildGroup>        Processes =>
+#3(D)[2022-10-13 14:29:48,666]{00000B20}<NvpChildProcess>          Session 2, process 00000000000003F8
+#4(D)[2022-10-13 14:29:48,666]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#5(I)[2022-10-13 14:29:49,000]{00000720}<NvpWatchdog>      Session 2 event 7: Lock
+#6(I)[2022-10-13 14:29:49,000]{00000720}<NvpWatchdog>      Session 2 event 7: Lock
+#7(I)[2022-10-13 14:29:57,620]{00000720}<NvpWatchdog>      Session 2 event 8: Unlock
+#8(I)[2022-10-13 14:29:57,620]{00000720}<NvpWatchdog>      Session 2 event 8: Unlock
+#9(I)[2022-10-13 14:29:58,679]{00000B20}<NvpWatchdog>      Timeout for a short wait of 10000 ms
+#0(I)[2022-10-13 14:29:58,679]{00000B20}<NvpWatchdog>          User session 2 - 'Console'
+#1(I)[2022-10-13 14:29:58,679]{00000B20}<NvpWatchdog>          Running session 2 - 'Console'
+#2(I)[2022-10-13 14:29:58,679]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#3(D)[2022-10-13 14:29:58,679]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-13 14:29:58,679]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>    Group =>
+#6(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#7(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#8(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#9(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>        Processes =>
+#0(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildProcess>          Session 2, process 00000000000003F8
+#1(D)[2022-10-13 14:29:58,679]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-13 14:29:58,679]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(I)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#4(I)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>    Container 00000000000003F8 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 2
+#5(D)[2022-10-13 14:29:58,679]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 14:29:58,679]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>    Group =>
+#8(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#0(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#1(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildGroup>        Processes =>
+#2(D)[2022-10-13 14:29:58,679]{00000B20}<NvpChildProcess>          Session 2, process 00000000000003F8
+#3(D)[2022-10-13 14:29:58,679]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 4294967295
+#4(I)[2022-10-13 16:00:36,605]{00000720}<NvpWatchdog>      Session 2 event 7: Lock
+#5(I)[2022-10-13 16:00:36,605]{00000720}<NvpWatchdog>      Session 2 event 7: Lock
+#6(I)[2022-10-13 16:06:08,212]{00000720}<NvpWatchdog>      Session 2 event 8: Unlock
+#7(I)[2022-10-13 16:06:08,212]{00000720}<NvpWatchdog>      Session 2 event 8: Unlock
+#8(I)[2022-10-13 17:24:59,524]{00000B20}<NvpWatchdog>      Process with index 0 exited
+#9(D)[2022-10-13 17:24:59,524]{00000B20}<NvpChildGroup>    Found container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session, session 2
+#0(I)[2022-10-13 17:24:59,524]{00000B20}<NvpChildProcess>  Container 00000000000003F8 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session exited with 40010004
+#1(D)[2022-10-13 17:24:59,524]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-13 17:24:59,524]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-13 17:24:59,524]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-13 17:24:59,524]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-13 17:24:59,524]{00000B20}<NvpChildGroup>    Group =>
+#6(D)[2022-10-13 17:24:59,524]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#7(D)[2022-10-13 17:24:59,524]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#8(D)[2022-10-13 17:24:59,524]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#9(D)[2022-10-13 17:24:59,524]{00000B20}<NvpChildGroup>        Processes =>
+#0(D)[2022-10-13 17:24:59,524]{00000B20}<NvpChildProcess>          Session 2, process 0000000000000000
+#1(D)[2022-10-13 17:24:59,524]{00000B20}<NvpWatchdog>      Wait for 3 handles. Timeout = 10000
+#2(I)[2022-10-13 17:24:59,633]{00000720}<NvpWatchdog>      Session 3 event 3: Remote Connect
+#3(I)[2022-10-13 17:24:59,633]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#4(I)[2022-10-13 17:24:59,633]{00000B20}<NvpWatchdog>      Session event was signaled
+#5(I)[2022-10-13 17:24:59,633]{00000720}<NvpWatchdog>      Session 3 event 3: Remote Connect
+#6(I)[2022-10-13 17:24:59,633]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#7(I)[2022-10-13 17:24:59,633]{00000B20}<NvpWatchdog>          User session 2 - 'Console'
+#8(I)[2022-10-13 17:24:59,633]{00000B20}<NvpWatchdog>          Running session 2 - 'Console'
+#9(D)[2022-10-13 17:24:59,633]{00000B20}<NvpWatchdog>      Skip black listed session 3 - 'Glass' in state 1
+#0(I)[2022-10-13 17:24:59,633]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#1(D)[2022-10-13 17:24:59,633]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-13 17:24:59,633]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-13 17:24:59,633]{00000B20}<NvpChildGroup>    Group =>
+#4(D)[2022-10-13 17:24:59,633]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#5(D)[2022-10-13 17:24:59,633]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#6(D)[2022-10-13 17:24:59,633]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#7(D)[2022-10-13 17:24:59,633]{00000B20}<NvpChildGroup>        Processes =>
+#8(D)[2022-10-13 17:24:59,633]{00000B20}<NvpChildProcess>          Session 2, process 0000000000000000
+#9(D)[2022-10-13 17:24:59,633]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-13 17:24:59,633]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(I)[2022-10-13 17:24:59,633]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#2(I)[2022-10-13 17:24:59,633]{00000B20}<NvpChildGroup>    Container C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session completed with an error 1073807364, but was not restarted immediately. Restart now
+#3(I)[2022-10-13 17:24:59,633]{00000B20}<NvpChildProcess>  Run container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session in session 2
+#4(D)[2022-10-13 17:24:59,695]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-13 17:24:59,695]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>    Group =>
+#7(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#8(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#9(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#0(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Processes =>
+#1(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildProcess>          Session 2, process 0000000000000308
+#2(D)[2022-10-13 17:24:59,695]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#3(I)[2022-10-13 17:24:59,695]{00000B20}<NvpWatchdog>      Session event was signaled
+#4(I)[2022-10-13 17:24:59,695]{00000B20}<NvpWatchdog>          User session 2 - 'Console'
+#5(I)[2022-10-13 17:24:59,695]{00000B20}<NvpWatchdog>          Running session 2 - 'Console'
+#6(D)[2022-10-13 17:24:59,695]{00000B20}<NvpWatchdog>      Skip black listed session 3 - 'Glass' in state 1
+#7(I)[2022-10-13 17:24:59,695]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#8(D)[2022-10-13 17:24:59,695]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-13 17:24:59,695]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>    Group =>
+#1(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#2(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#3(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#4(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Processes =>
+#5(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildProcess>          Session 2, process 0000000000000308
+#6(D)[2022-10-13 17:24:59,695]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-13 17:24:59,695]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(I)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(I)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>    Container 0000000000000308 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 2
+#0(D)[2022-10-13 17:24:59,695]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-13 17:24:59,695]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>    Group =>
+#3(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#4(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#5(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#6(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildGroup>        Processes =>
+#7(D)[2022-10-13 17:24:59,695]{00000B20}<NvpChildProcess>          Session 2, process 0000000000000308
+#8(D)[2022-10-13 17:24:59,695]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#9(I)[2022-10-13 17:25:03,413]{00000B20}<NvpWatchdog>      Process with index 0 exited
+#0(D)[2022-10-13 17:25:03,413]{00000B20}<NvpChildGroup>    Found container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session, session 2
+#1(I)[2022-10-13 17:25:03,413]{00000B20}<NvpChildProcess>  Container 0000000000000308 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session exited with 40010004
+#2(D)[2022-10-13 17:25:03,413]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-13 17:25:03,413]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-13 17:25:03,413]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-13 17:25:03,413]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 17:25:03,413]{00000B20}<NvpChildGroup>    Group =>
+#7(D)[2022-10-13 17:25:03,413]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#8(D)[2022-10-13 17:25:03,413]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#9(D)[2022-10-13 17:25:03,413]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#0(D)[2022-10-13 17:25:03,413]{00000B20}<NvpChildGroup>        Processes =>
+#1(D)[2022-10-13 17:25:03,413]{00000B20}<NvpChildProcess>          Session 2, process 0000000000000000
+#2(D)[2022-10-13 17:25:03,413]{00000B20}<NvpWatchdog>      Wait for 3 handles. Timeout = 10000
+#3(I)[2022-10-13 17:25:04,101]{00000720}<NvpWatchdog>      Session 2 event 6: Logoff
+#4(I)[2022-10-13 17:25:04,101]{00000720}<NvpWatchdog>      Session 2 event 6: Logoff
+#5(I)[2022-10-13 17:25:05,198]{00000720}<NvpWatchdog>      Session 2 event 2: Console Disconnect
+#6(I)[2022-10-13 17:25:05,198]{00000720}<NvpWatchdog>      Session 2 event 2: Console Disconnect
+#7(I)[2022-10-13 17:25:05,214]{00000720}<NvpWatchdog>      Session 3 event 4: Remote Disconnect
+#8(I)[2022-10-13 17:25:05,214]{00000720}<NvpWatchdog>      Session 3 event 4: Remote Disconnect
+#9(I)[2022-10-13 17:25:05,542]{00000720}<NvpWatchdog>      Session 3 event 1: Console Connect
+#0(I)[2022-10-13 17:25:05,542]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#1(I)[2022-10-13 17:25:05,542]{00000B20}<NvpWatchdog>      Session event was signaled
+#2(D)[2022-10-13 17:25:05,542]{00000B20}<NvpWatchdog>      Skip session 2 - '' in state 8
+#3(I)[2022-10-13 17:25:05,542]{00000B20}<NvpWatchdog>          Running session 3 - 'Console'
+#4(I)[2022-10-13 17:25:05,542]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 0 & service session
+#5(D)[2022-10-13 17:25:05,542]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(I)[2022-10-13 17:25:05,542]{00000720}<NvpWatchdog>      Session 3 event 1: Console Connect
+#6(D)[2022-10-13 17:25:05,542]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(I)[2022-10-13 17:25:05,542]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#9(D)[2022-10-13 17:25:05,542]{00000B20}<NvpChildGroup>    Group =>
+#0(D)[2022-10-13 17:25:05,542]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(D)[2022-10-13 17:25:05,542]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#2(D)[2022-10-13 17:25:05,542]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#3(D)[2022-10-13 17:25:05,542]{00000B20}<NvpChildGroup>        Processes =>
+#4(D)[2022-10-13 17:25:05,542]{00000B20}<NvpChildProcess>          Session 2, process 0000000000000000
+#5(D)[2022-10-13 17:25:05,542]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 17:25:05,542]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(I)[2022-10-13 17:25:05,542]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#8(I)[2022-10-13 17:25:05,542]{00000B20}<NvpChildProcess>  Run container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session in session 3
+#9(I)[2022-10-13 17:25:05,542]{00000B20}<NvpChildProcess>  Use quit event 'Global\NvContainer1828-session3-c:_windows_system32_driverstore_filerepository_nvacegpu.inf_amd64_efe127e721dd1bb8_display.nvcontainer_plugins_session' (error = 0) for elevated container 'C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session'
+#0(I)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>    Cleaning up session 2 that is no longer active
+#1(D)[2022-10-13 17:25:05,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-13 17:25:05,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>    Group =>
+#4(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#5(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#6(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#7(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Processes =>
+#8(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildProcess>          Session 3, process 000000000000075C
+#9(D)[2022-10-13 17:25:05,573]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#0(I)[2022-10-13 17:25:05,573]{00000B20}<NvpWatchdog>      Session event was signaled
+#1(D)[2022-10-13 17:25:05,573]{00000B20}<NvpWatchdog>      Skip session 2 - '' in state 8
+#2(I)[2022-10-13 17:25:05,573]{00000B20}<NvpWatchdog>          Running session 3 - 'Console'
+#3(I)[2022-10-13 17:25:05,573]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 0 & service session
+#4(D)[2022-10-13 17:25:05,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-13 17:25:05,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>    Group =>
+#7(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#8(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#9(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#0(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Processes =>
+#1(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildProcess>          Session 3, process 000000000000075C
+#2(D)[2022-10-13 17:25:05,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-13 17:25:05,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(I)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#5(I)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>    Container 000000000000075C for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 3
+#6(D)[2022-10-13 17:25:05,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-13 17:25:05,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>    Group =>
+#9(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#1(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#2(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildGroup>        Processes =>
+#3(D)[2022-10-13 17:25:05,573]{00000B20}<NvpChildProcess>          Session 3, process 000000000000075C
+#4(D)[2022-10-13 17:25:05,573]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#5(I)[2022-10-14 10:20:26,694]{00000720}<NvpWatchdog>      Session 3 event 5: Logon
+#6(I)[2022-10-14 10:20:26,694]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#7(I)[2022-10-14 10:20:26,694]{00000B20}<NvpWatchdog>      Session event was signaled
+#8(I)[2022-10-14 10:20:26,694]{00000720}<NvpWatchdog>      Session 3 event 5: Logon
+#9(I)[2022-10-14 10:20:26,694]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#0(I)[2022-10-14 10:20:26,694]{00000B20}<NvpWatchdog>          User session 3 - 'Console'
+#1(I)[2022-10-14 10:20:26,694]{00000B20}<NvpWatchdog>          Running session 3 - 'Console'
+#2(I)[2022-10-14 10:20:26,694]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#3(D)[2022-10-14 10:20:26,694]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-14 10:20:26,694]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>    Group =>
+#6(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#7(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#8(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#9(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Processes =>
+#0(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildProcess>          Session 3, process 000000000000075C
+#1(D)[2022-10-14 10:20:26,694]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-14 10:20:26,694]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(I)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#4(I)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>    Container 000000000000075C for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 3
+#5(D)[2022-10-14 10:20:26,694]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-14 10:20:26,694]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>    Group =>
+#8(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#0(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#1(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Processes =>
+#2(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildProcess>          Session 3, process 000000000000075C
+#3(D)[2022-10-14 10:20:26,694]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#4(I)[2022-10-14 10:20:26,694]{00000B20}<NvpWatchdog>      Session event was signaled
+#5(I)[2022-10-14 10:20:26,694]{00000B20}<NvpWatchdog>          User session 3 - 'Console'
+#6(I)[2022-10-14 10:20:26,694]{00000B20}<NvpWatchdog>          Running session 3 - 'Console'
+#7(I)[2022-10-14 10:20:26,694]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#8(D)[2022-10-14 10:20:26,694]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-14 10:20:26,694]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>    Group =>
+#1(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#2(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#3(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#4(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildGroup>        Processes =>
+#5(D)[2022-10-14 10:20:26,694]{00000B20}<NvpChildProcess>          Session 3, process 000000000000075C
+#6(D)[2022-10-14 10:20:26,710]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-14 10:20:26,710]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(I)[2022-10-14 10:20:26,710]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(I)[2022-10-14 10:20:26,710]{00000B20}<NvpChildGroup>    Container 000000000000075C for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 3
+#0(D)[2022-10-14 10:20:26,710]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-14 10:20:26,710]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-14 10:20:26,710]{00000B20}<NvpChildGroup>    Group =>
+#3(D)[2022-10-14 10:20:26,710]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#4(D)[2022-10-14 10:20:26,710]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#5(D)[2022-10-14 10:20:26,710]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#6(D)[2022-10-14 10:20:26,710]{00000B20}<NvpChildGroup>        Processes =>
+#7(D)[2022-10-14 10:20:26,710]{00000B20}<NvpChildProcess>          Session 3, process 000000000000075C
+#8(D)[2022-10-14 10:20:26,710]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#9(I)[2022-10-14 10:20:27,075]{00000720}<NvpWatchdog>      Session 3 event 7: Lock
+#0(I)[2022-10-14 10:20:27,075]{00000720}<NvpWatchdog>      Session 3 event 7: Lock
+#1(I)[2022-10-14 10:20:31,095]{00000720}<NvpWatchdog>      Session 3 event 8: Unlock
+#2(I)[2022-10-14 10:20:31,095]{00000720}<NvpWatchdog>      Session 3 event 8: Unlock
+#3(I)[2022-10-14 10:20:36,730]{00000B20}<NvpWatchdog>      Timeout for a short wait of 10000 ms
+#4(I)[2022-10-14 10:20:36,730]{00000B20}<NvpWatchdog>          User session 3 - 'Console'
+#5(I)[2022-10-14 10:20:36,730]{00000B20}<NvpWatchdog>          Running session 3 - 'Console'
+#6(I)[2022-10-14 10:20:36,730]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#7(D)[2022-10-14 10:20:36,730]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-14 10:20:36,730]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>    Group =>
+#0(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#2(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#3(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>        Processes =>
+#4(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildProcess>          Session 3, process 000000000000075C
+#5(D)[2022-10-14 10:20:36,730]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-14 10:20:36,730]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(I)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#8(I)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>    Container 000000000000075C for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 3
+#9(D)[2022-10-14 10:20:36,730]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-14 10:20:36,730]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>    Group =>
+#2(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#3(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#4(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#5(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildGroup>        Processes =>
+#6(D)[2022-10-14 10:20:36,730]{00000B20}<NvpChildProcess>          Session 3, process 000000000000075C
+#7(D)[2022-10-14 10:20:36,730]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 4294967295
+#8(I)[2022-10-14 10:21:55,336]{00000720}<NvpWatchdog>      Session 3 event 7: Lock
+#9(I)[2022-10-14 10:21:55,337]{00000720}<NvpWatchdog>      Session 3 event 7: Lock
+#0(I)[2022-10-14 19:33:27,975]{00000720}<NvpWatchdog>      Session 3 event 8: Unlock
+#1(I)[2022-10-14 19:33:27,975]{00000720}<NvpWatchdog>      Session 3 event 8: Unlock
+#2(I)[2022-10-14 19:57:03,729]{00000720}<NvpWatchdog>      Session 3 event 7: Lock
+#3(I)[2022-10-14 19:57:03,729]{00000720}<NvpWatchdog>      Session 3 event 7: Lock
+#4(I)[2022-10-14 20:09:29,551]{00000720}<NvpWatchdog>      Session 3 event 8: Unlock
+#5(I)[2022-10-14 20:09:29,551]{00000720}<NvpWatchdog>      Session 3 event 8: Unlock
+#6(I)[2022-10-14 20:18:48,522]{00000720}<NvpWatchdog>      Session 3 event 7: Lock
+#7(I)[2022-10-14 20:18:48,522]{00000720}<NvpWatchdog>      Session 3 event 7: Lock
+#8(I)[2022-10-15 08:23:14,438]{00000720}<NvpWatchdog>      Session 3 event 8: Unlock
+#9(I)[2022-10-15 08:23:14,438]{00000720}<NvpWatchdog>      Session 3 event 8: Unlock
+#0(I)[2022-10-15 13:02:00,786]{00000B20}<NvpWatchdog>      Process with index 0 exited
+#1(D)[2022-10-15 13:02:00,786]{00000B20}<NvpChildGroup>    Found container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session, session 3
+#2(I)[2022-10-15 13:02:00,786]{00000B20}<NvpChildProcess>  Container 000000000000075C for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session exited with 40010004
+#3(D)[2022-10-15 13:02:00,786]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-15 13:02:00,786]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-15 13:02:00,786]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-15 13:02:00,786]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-15 13:02:00,786]{00000B20}<NvpChildGroup>    Group =>
+#8(D)[2022-10-15 13:02:00,786]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(D)[2022-10-15 13:02:00,786]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#0(D)[2022-10-15 13:02:00,786]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#1(D)[2022-10-15 13:02:00,786]{00000B20}<NvpChildGroup>        Processes =>
+#2(D)[2022-10-15 13:02:00,786]{00000B20}<NvpChildProcess>          Session 3, process 0000000000000000
+#3(D)[2022-10-15 13:02:00,786]{00000B20}<NvpWatchdog>      Wait for 3 handles. Timeout = 10000
+#4(I)[2022-10-15 13:02:00,817]{00000720}<NvpWatchdog>      Session 4 event 3: Remote Connect
+#5(I)[2022-10-15 13:02:00,817]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#6(I)[2022-10-15 13:02:00,817]{00000B20}<NvpWatchdog>      Session event was signaled
+#7(I)[2022-10-15 13:02:00,817]{00000720}<NvpWatchdog>      Session 4 event 3: Remote Connect
+#8(I)[2022-10-15 13:02:00,817]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#9(I)[2022-10-15 13:02:00,817]{00000B20}<NvpWatchdog>          User session 3 - 'Console'
+#0(I)[2022-10-15 13:02:00,817]{00000B20}<NvpWatchdog>          Running session 3 - 'Console'
+#1(D)[2022-10-15 13:02:00,817]{00000B20}<NvpWatchdog>      Skip black listed session 4 - 'Glass' in state 1
+#2(I)[2022-10-15 13:02:00,817]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#3(D)[2022-10-15 13:02:00,817]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-15 13:02:00,817]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-15 13:02:00,817]{00000B20}<NvpChildGroup>    Group =>
+#6(D)[2022-10-15 13:02:00,817]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#7(D)[2022-10-15 13:02:00,817]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#8(D)[2022-10-15 13:02:00,817]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#9(D)[2022-10-15 13:02:00,817]{00000B20}<NvpChildGroup>        Processes =>
+#0(D)[2022-10-15 13:02:00,817]{00000B20}<NvpChildProcess>          Session 3, process 0000000000000000
+#1(D)[2022-10-15 13:02:00,817]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-15 13:02:00,817]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(I)[2022-10-15 13:02:00,817]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#4(I)[2022-10-15 13:02:00,817]{00000B20}<NvpChildGroup>    Container C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session completed with an error 1073807364, but was not restarted immediately. Restart now
+#5(I)[2022-10-15 13:02:00,817]{00000B20}<NvpChildProcess>  Run container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session in session 3
+#6(D)[2022-10-15 13:02:00,848]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-15 13:02:00,848]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>    Group =>
+#9(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#1(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#2(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Processes =>
+#3(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildProcess>          Session 3, process 00000000000002D0
+#4(D)[2022-10-15 13:02:00,848]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#5(I)[2022-10-15 13:02:00,848]{00000B20}<NvpWatchdog>      Session event was signaled
+#6(I)[2022-10-15 13:02:00,848]{00000B20}<NvpWatchdog>          User session 3 - 'Console'
+#7(I)[2022-10-15 13:02:00,848]{00000B20}<NvpWatchdog>          Running session 3 - 'Console'
+#8(D)[2022-10-15 13:02:00,848]{00000B20}<NvpWatchdog>      Skip black listed session 4 - 'Glass' in state 1
+#9(I)[2022-10-15 13:02:00,848]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#0(D)[2022-10-15 13:02:00,848]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-15 13:02:00,848]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>    Group =>
+#3(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#4(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#5(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#6(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Processes =>
+#7(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildProcess>          Session 3, process 00000000000002D0
+#8(D)[2022-10-15 13:02:00,848]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-15 13:02:00,848]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(I)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(I)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>    Container 00000000000002D0 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 3
+#2(D)[2022-10-15 13:02:00,848]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-15 13:02:00,848]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>    Group =>
+#5(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#6(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#7(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#8(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildGroup>        Processes =>
+#9(D)[2022-10-15 13:02:00,848]{00000B20}<NvpChildProcess>          Session 3, process 00000000000002D0
+#0(D)[2022-10-15 13:02:00,848]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#1(I)[2022-10-15 13:02:04,472]{00000B20}<NvpWatchdog>      Process with index 0 exited
+#2(D)[2022-10-15 13:02:04,472]{00000B20}<NvpChildGroup>    Found container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session, session 3
+#3(I)[2022-10-15 13:02:04,472]{00000B20}<NvpChildProcess>  Container 00000000000002D0 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session exited with 40010004
+#4(D)[2022-10-15 13:02:04,472]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-15 13:02:04,472]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-15 13:02:04,488]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-15 13:02:04,488]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-15 13:02:04,488]{00000B20}<NvpChildGroup>    Group =>
+#9(D)[2022-10-15 13:02:04,488]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(D)[2022-10-15 13:02:04,488]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#1(D)[2022-10-15 13:02:04,488]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#2(D)[2022-10-15 13:02:04,488]{00000B20}<NvpChildGroup>        Processes =>
+#3(D)[2022-10-15 13:02:04,488]{00000B20}<NvpChildProcess>          Session 3, process 0000000000000000
+#4(D)[2022-10-15 13:02:04,488]{00000B20}<NvpWatchdog>      Wait for 3 handles. Timeout = 10000
+#5(I)[2022-10-15 13:02:05,556]{00000720}<NvpWatchdog>      Session 3 event 6: Logoff
+#6(I)[2022-10-15 13:02:05,556]{00000720}<NvpWatchdog>      Session 3 event 6: Logoff
+#7(I)[2022-10-15 13:02:07,747]{00000720}<NvpWatchdog>      Session 3 event 2: Console Disconnect
+#8(I)[2022-10-15 13:02:07,747]{00000720}<NvpWatchdog>      Session 3 event 2: Console Disconnect
+#9(I)[2022-10-15 13:02:07,779]{00000720}<NvpWatchdog>      Session 4 event 4: Remote Disconnect
+#0(I)[2022-10-15 13:02:07,779]{00000720}<NvpWatchdog>      Session 4 event 4: Remote Disconnect
+#1(I)[2022-10-15 13:02:07,907]{00000720}<NvpWatchdog>      Session 4 event 1: Console Connect
+#2(I)[2022-10-15 13:02:07,907]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#3(I)[2022-10-15 13:02:07,907]{00000B20}<NvpWatchdog>      Session event was signaled
+#4(D)[2022-10-15 13:02:07,907]{00000B20}<NvpWatchdog>      Skip session 3 - '' in state 8
+#5(I)[2022-10-15 13:02:07,907]{00000B20}<NvpWatchdog>          Running session 4 - 'Console'
+#6(I)[2022-10-15 13:02:07,907]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 0 & service session
+#7(I)[2022-10-15 13:02:07,907]{00000720}<NvpWatchdog>      Session 4 event 1: Console Connect
+#8(I)[2022-10-15 13:02:07,907]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#9(D)[2022-10-15 13:02:07,907]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-15 13:02:07,907]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-15 13:02:07,907]{00000B20}<NvpChildGroup>    Group =>
+#2(D)[2022-10-15 13:02:07,907]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#3(D)[2022-10-15 13:02:07,907]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#4(D)[2022-10-15 13:02:07,907]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#5(D)[2022-10-15 13:02:07,907]{00000B20}<NvpChildGroup>        Processes =>
+#6(D)[2022-10-15 13:02:07,907]{00000B20}<NvpChildProcess>          Session 3, process 0000000000000000
+#7(D)[2022-10-15 13:02:07,907]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-15 13:02:07,907]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(I)[2022-10-15 13:02:07,907]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(I)[2022-10-15 13:02:07,907]{00000B20}<NvpChildProcess>  Run container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session in session 4
+#1(I)[2022-10-15 13:02:07,907]{00000B20}<NvpChildProcess>  Use quit event 'Global\NvContainer1828-session4-c:_windows_system32_driverstore_filerepository_nvacegpu.inf_amd64_efe127e721dd1bb8_display.nvcontainer_plugins_session' (error = 0) for elevated container 'C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session'
+#2(I)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>    Cleaning up session 3 that is no longer active
+#3(D)[2022-10-15 13:02:07,922]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-15 13:02:07,922]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>    Group =>
+#6(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#7(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#8(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#9(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Processes =>
+#0(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000280
+#1(D)[2022-10-15 13:02:07,922]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#2(I)[2022-10-15 13:02:07,922]{00000B20}<NvpWatchdog>      Session event was signaled
+#3(D)[2022-10-15 13:02:07,922]{00000B20}<NvpWatchdog>      Skip session 3 - '' in state 8
+#4(I)[2022-10-15 13:02:07,922]{00000B20}<NvpWatchdog>          Running session 4 - 'Console'
+#5(I)[2022-10-15 13:02:07,922]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 0 & service session
+#6(D)[2022-10-15 13:02:07,922]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-15 13:02:07,922]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>    Group =>
+#9(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#1(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#2(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Processes =>
+#3(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000280
+#4(D)[2022-10-15 13:02:07,922]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-15 13:02:07,922]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(I)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#7(I)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>    Container 0000000000000280 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 4
+#8(D)[2022-10-15 13:02:07,922]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-15 13:02:07,922]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>    Group =>
+#1(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#2(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#3(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#4(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildGroup>        Processes =>
+#5(D)[2022-10-15 13:02:07,922]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000280
+#6(D)[2022-10-15 13:02:07,922]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#7(I)[2022-10-16 08:10:28,573]{00000720}<NvpWatchdog>      Session 4 event 5: Logon
+#8(I)[2022-10-16 08:10:28,573]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#9(I)[2022-10-16 08:10:28,573]{00000B20}<NvpWatchdog>      Session event was signaled
+#0(I)[2022-10-16 08:10:28,573]{00000720}<NvpWatchdog>      Session 4 event 5: Logon
+#1(I)[2022-10-16 08:10:28,573]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#2(I)[2022-10-16 08:10:28,573]{00000B20}<NvpWatchdog>          User session 4 - 'Console'
+#3(I)[2022-10-16 08:10:28,573]{00000B20}<NvpWatchdog>          Running session 4 - 'Console'
+#4(I)[2022-10-16 08:10:28,573]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#5(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>    Group =>
+#8(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#0(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#1(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Processes =>
+#2(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000280
+#3(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(I)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#6(I)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>    Container 0000000000000280 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 4
+#7(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>    Group =>
+#0(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#2(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#3(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Processes =>
+#4(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000280
+#5(D)[2022-10-16 08:10:28,573]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#6(I)[2022-10-16 08:10:28,573]{00000B20}<NvpWatchdog>      Session event was signaled
+#7(I)[2022-10-16 08:10:28,573]{00000B20}<NvpWatchdog>          User session 4 - 'Console'
+#8(I)[2022-10-16 08:10:28,573]{00000B20}<NvpWatchdog>          Running session 4 - 'Console'
+#9(I)[2022-10-16 08:10:28,573]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#0(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>    Group =>
+#3(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#4(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#5(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#6(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Processes =>
+#7(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000280
+#8(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(I)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(I)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>    Container 0000000000000280 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 4
+#2(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-16 08:10:28,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>    Group =>
+#5(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#6(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#7(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#8(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildGroup>        Processes =>
+#9(D)[2022-10-16 08:10:28,573]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000280
+#0(D)[2022-10-16 08:10:28,573]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#1(I)[2022-10-16 08:10:28,782]{00000720}<NvpWatchdog>      Session 4 event 7: Lock
+#2(I)[2022-10-16 08:10:28,782]{00000720}<NvpWatchdog>      Session 4 event 7: Lock
+#3(I)[2022-10-16 08:10:36,236]{00000720}<NvpWatchdog>      Session 4 event 8: Unlock
+#4(I)[2022-10-16 08:10:36,236]{00000720}<NvpWatchdog>      Session 4 event 8: Unlock
+#5(I)[2022-10-16 08:10:38,583]{00000B20}<NvpWatchdog>      Timeout for a short wait of 10000 ms
+#6(I)[2022-10-16 08:10:38,583]{00000B20}<NvpWatchdog>          User session 4 - 'Console'
+#7(I)[2022-10-16 08:10:38,583]{00000B20}<NvpWatchdog>          Running session 4 - 'Console'
+#8(I)[2022-10-16 08:10:38,583]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#9(D)[2022-10-16 08:10:38,583]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-16 08:10:38,583]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>    Group =>
+#2(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#3(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#4(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#5(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>        Processes =>
+#6(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000280
+#7(D)[2022-10-16 08:10:38,583]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-16 08:10:38,583]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(I)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(I)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>    Container 0000000000000280 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 4
+#1(D)[2022-10-16 08:10:38,583]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-16 08:10:38,583]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>    Group =>
+#4(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#5(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#6(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#7(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildGroup>        Processes =>
+#8(D)[2022-10-16 08:10:38,583]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000280
+#9(D)[2022-10-16 08:10:38,583]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 4294967295
+#0(I)[2022-10-16 12:14:03,420]{00000B20}<NvpWatchdog>      Process with index 0 exited
+#1(D)[2022-10-16 12:14:03,420]{00000B20}<NvpChildGroup>    Found container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session, session 4
+#2(I)[2022-10-16 12:14:03,436]{00000B20}<NvpChildProcess>  Container 0000000000000280 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session exited with 40010004
+#3(D)[2022-10-16 12:14:03,436]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-16 12:14:03,436]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-16 12:14:03,436]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-16 12:14:03,436]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-16 12:14:03,436]{00000B20}<NvpChildGroup>    Group =>
+#8(D)[2022-10-16 12:14:03,436]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(D)[2022-10-16 12:14:03,436]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#0(D)[2022-10-16 12:14:03,436]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#1(D)[2022-10-16 12:14:03,436]{00000B20}<NvpChildGroup>        Processes =>
+#2(D)[2022-10-16 12:14:03,436]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000000
+#3(D)[2022-10-16 12:14:03,436]{00000B20}<NvpWatchdog>      Wait for 3 handles. Timeout = 10000
+#4(I)[2022-10-16 12:14:03,467]{00000720}<NvpWatchdog>      Session 5 event 3: Remote Connect
+#5(I)[2022-10-16 12:14:03,467]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#6(I)[2022-10-16 12:14:03,467]{00000B20}<NvpWatchdog>      Session event was signaled
+#7(I)[2022-10-16 12:14:03,467]{00000720}<NvpWatchdog>      Session 5 event 3: Remote Connect
+#8(I)[2022-10-16 12:14:03,467]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#9(I)[2022-10-16 12:14:03,467]{00000B20}<NvpWatchdog>          User session 4 - 'Console'
+#0(I)[2022-10-16 12:14:03,467]{00000B20}<NvpWatchdog>          Running session 4 - 'Console'
+#1(D)[2022-10-16 12:14:03,467]{00000B20}<NvpWatchdog>      Skip black listed session 5 - 'Glass' in state 1
+#2(I)[2022-10-16 12:14:03,467]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#3(D)[2022-10-16 12:14:03,467]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-16 12:14:03,467]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-16 12:14:03,467]{00000B20}<NvpChildGroup>    Group =>
+#6(D)[2022-10-16 12:14:03,467]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#7(D)[2022-10-16 12:14:03,467]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#8(D)[2022-10-16 12:14:03,467]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#9(D)[2022-10-16 12:14:03,467]{00000B20}<NvpChildGroup>        Processes =>
+#0(D)[2022-10-16 12:14:03,467]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000000
+#1(D)[2022-10-16 12:14:03,467]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-16 12:14:03,467]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(I)[2022-10-16 12:14:03,467]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#4(I)[2022-10-16 12:14:03,467]{00000B20}<NvpChildGroup>    Container C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session completed with an error 1073807364, but was not restarted immediately. Restart now
+#5(I)[2022-10-16 12:14:03,467]{00000B20}<NvpChildProcess>  Run container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session in session 4
+#6(D)[2022-10-16 12:14:03,498]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-16 12:14:03,498]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>    Group =>
+#9(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#1(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#2(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Processes =>
+#3(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildProcess>          Session 4, process 00000000000007B0
+#4(D)[2022-10-16 12:14:03,498]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#5(I)[2022-10-16 12:14:03,498]{00000B20}<NvpWatchdog>      Session event was signaled
+#6(I)[2022-10-16 12:14:03,498]{00000B20}<NvpWatchdog>          User session 4 - 'Console'
+#7(I)[2022-10-16 12:14:03,498]{00000B20}<NvpWatchdog>          Running session 4 - 'Console'
+#8(D)[2022-10-16 12:14:03,498]{00000B20}<NvpWatchdog>      Skip black listed session 5 - 'Glass' in state 1
+#9(I)[2022-10-16 12:14:03,498]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#0(D)[2022-10-16 12:14:03,498]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-16 12:14:03,498]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>    Group =>
+#3(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#4(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#5(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#6(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Processes =>
+#7(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildProcess>          Session 4, process 00000000000007B0
+#8(D)[2022-10-16 12:14:03,498]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-16 12:14:03,498]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(I)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(I)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>    Container 00000000000007B0 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 4
+#2(D)[2022-10-16 12:14:03,498]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-16 12:14:03,498]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>    Group =>
+#5(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#6(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#7(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#8(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildGroup>        Processes =>
+#9(D)[2022-10-16 12:14:03,498]{00000B20}<NvpChildProcess>          Session 4, process 00000000000007B0
+#0(D)[2022-10-16 12:14:03,498]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#1(I)[2022-10-16 12:14:08,029]{00000B20}<NvpWatchdog>      Process with index 0 exited
+#2(D)[2022-10-16 12:14:08,029]{00000B20}<NvpChildGroup>    Found container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session, session 4
+#3(I)[2022-10-16 12:14:08,029]{00000B20}<NvpChildProcess>  Container 00000000000007B0 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session exited with 40010004
+#4(D)[2022-10-16 12:14:08,029]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-16 12:14:08,029]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-16 12:14:08,029]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-16 12:14:08,029]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-16 12:14:08,029]{00000B20}<NvpChildGroup>    Group =>
+#9(D)[2022-10-16 12:14:08,029]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(D)[2022-10-16 12:14:08,029]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#1(D)[2022-10-16 12:14:08,029]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#2(D)[2022-10-16 12:14:08,029]{00000B20}<NvpChildGroup>        Processes =>
+#3(D)[2022-10-16 12:14:08,029]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000000
+#4(D)[2022-10-16 12:14:08,029]{00000B20}<NvpWatchdog>      Wait for 3 handles. Timeout = 10000
+#5(I)[2022-10-16 12:14:08,638]{00000720}<NvpWatchdog>      Session 4 event 6: Logoff
+#6(I)[2022-10-16 12:14:08,638]{00000720}<NvpWatchdog>      Session 4 event 6: Logoff
+#7(I)[2022-10-16 12:14:10,821]{00000720}<NvpWatchdog>      Session 4 event 2: Console Disconnect
+#8(I)[2022-10-16 12:14:10,821]{00000720}<NvpWatchdog>      Session 4 event 2: Console Disconnect
+#9(I)[2022-10-16 12:14:10,852]{00000720}<NvpWatchdog>      Session 5 event 4: Remote Disconnect
+#0(I)[2022-10-16 12:14:10,852]{00000720}<NvpWatchdog>      Session 5 event 4: Remote Disconnect
+#1(I)[2022-10-16 12:14:11,573]{00000720}<NvpWatchdog>      Session 5 event 1: Console Connect
+#2(I)[2022-10-16 12:14:11,573]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#3(I)[2022-10-16 12:14:11,573]{00000B20}<NvpWatchdog>      Session event was signaled
+#4(D)[2022-10-16 12:14:11,573]{00000B20}<NvpWatchdog>      Skip session 4 - '' in state 8
+#5(I)[2022-10-16 12:14:11,573]{00000B20}<NvpWatchdog>          Running session 5 - 'Console'
+#6(I)[2022-10-16 12:14:11,573]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 0 & service session
+#7(D)[2022-10-16 12:14:11,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-16 12:14:11,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-16 12:14:11,573]{00000B20}<NvpChildGroup>    Group =>
+#0(D)[2022-10-16 12:14:11,573]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(D)[2022-10-16 12:14:11,573]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#2(D)[2022-10-16 12:14:11,573]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#3(D)[2022-10-16 12:14:11,573]{00000B20}<NvpChildGroup>        Processes =>
+#4(D)[2022-10-16 12:14:11,573]{00000B20}<NvpChildProcess>          Session 4, process 0000000000000000
+#5(I)[2022-10-16 12:14:11,573]{00000720}<NvpWatchdog>      Session 5 event 1: Console Connect
+#6(I)[2022-10-16 12:14:11,573]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#7(D)[2022-10-16 12:14:11,573]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-16 12:14:11,573]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(I)[2022-10-16 12:14:11,573]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(I)[2022-10-16 12:14:11,573]{00000B20}<NvpChildProcess>  Run container for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session in session 5
+#1(I)[2022-10-16 12:14:11,573]{00000B20}<NvpChildProcess>  Use quit event 'Global\NvContainer1828-session5-c:_windows_system32_driverstore_filerepository_nvacegpu.inf_amd64_efe127e721dd1bb8_display.nvcontainer_plugins_session' (error = 0) for elevated container 'C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session'
+#2(I)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>    Cleaning up session 4 that is no longer active
+#3(D)[2022-10-16 12:14:11,588]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-16 12:14:11,588]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>    Group =>
+#6(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#7(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#8(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#9(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Processes =>
+#0(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildProcess>          Session 5, process 00000000000007B0
+#1(D)[2022-10-16 12:14:11,588]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#2(I)[2022-10-16 12:14:11,588]{00000B20}<NvpWatchdog>      Session event was signaled
+#3(D)[2022-10-16 12:14:11,588]{00000B20}<NvpWatchdog>      Skip session 4 - '' in state 8
+#4(I)[2022-10-16 12:14:11,588]{00000B20}<NvpWatchdog>          Running session 5 - 'Console'
+#5(I)[2022-10-16 12:14:11,588]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 0 & service session
+#6(D)[2022-10-16 12:14:11,588]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-16 12:14:11,588]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>    Group =>
+#9(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#0(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#1(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#2(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Processes =>
+#3(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildProcess>          Session 5, process 00000000000007B0
+#4(D)[2022-10-16 12:14:11,588]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(D)[2022-10-16 12:14:11,588]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(I)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#7(I)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>    Container 00000000000007B0 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 5
+#8(D)[2022-10-16 12:14:11,588]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-16 12:14:11,588]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>    Group =>
+#1(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#2(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#3(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#4(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildGroup>        Processes =>
+#5(D)[2022-10-16 12:14:11,588]{00000B20}<NvpChildProcess>          Session 5, process 00000000000007B0
+#6(D)[2022-10-16 12:14:11,588]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#7(I)[2022-10-17 08:19:38,092]{00000720}<NvpWatchdog>      Session 5 event 5: Logon
+#8(I)[2022-10-17 08:19:38,092]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#9(I)[2022-10-17 08:19:38,092]{00000B20}<NvpWatchdog>      Session event was signaled
+#0(I)[2022-10-17 08:19:38,092]{00000720}<NvpWatchdog>      Session 5 event 5: Logon
+#1(I)[2022-10-17 08:19:38,092]{00000720}<NvpWatchdog>      Signaled watchdog session change event.
+#2(I)[2022-10-17 08:19:38,092]{00000B20}<NvpWatchdog>          User session 5 - 'Console'
+#3(I)[2022-10-17 08:19:38,092]{00000B20}<NvpWatchdog>          Running session 5 - 'Console'
+#4(I)[2022-10-17 08:19:38,092]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#5(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>    Group =>
+#8(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#9(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#0(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#1(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Processes =>
+#2(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildProcess>          Session 5, process 00000000000007B0
+#3(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#5(I)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#6(I)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>    Container 00000000000007B0 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 5
+#7(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>    Group =>
+#0(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#2(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#3(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Processes =>
+#4(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildProcess>          Session 5, process 00000000000007B0
+#5(D)[2022-10-17 08:19:38,092]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#6(I)[2022-10-17 08:19:38,092]{00000B20}<NvpWatchdog>      Session event was signaled
+#7(I)[2022-10-17 08:19:38,092]{00000B20}<NvpWatchdog>          User session 5 - 'Console'
+#8(I)[2022-10-17 08:19:38,092]{00000B20}<NvpWatchdog>          Running session 5 - 'Console'
+#9(I)[2022-10-17 08:19:38,092]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#0(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#2(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>    Group =>
+#3(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#4(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#5(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#6(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Processes =>
+#7(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildProcess>          Session 5, process 00000000000007B0
+#8(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(I)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(I)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>    Container 00000000000007B0 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 5
+#2(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(D)[2022-10-17 08:19:38,092]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#4(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>    Group =>
+#5(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#6(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#7(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#8(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildGroup>        Processes =>
+#9(D)[2022-10-17 08:19:38,092]{00000B20}<NvpChildProcess>          Session 5, process 00000000000007B0
+#0(D)[2022-10-17 08:19:38,092]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 10000
+#1(I)[2022-10-17 08:19:38,310]{00000720}<NvpWatchdog>      Session 5 event 7: Lock
+#2(I)[2022-10-17 08:19:38,310]{00000720}<NvpWatchdog>      Session 5 event 7: Lock
+#3(I)[2022-10-17 08:19:48,103]{00000B20}<NvpWatchdog>      Timeout for a short wait of 10000 ms
+#4(I)[2022-10-17 08:19:48,103]{00000B20}<NvpWatchdog>          User session 5 - 'Console'
+#5(I)[2022-10-17 08:19:48,103]{00000B20}<NvpWatchdog>          Running session 5 - 'Console'
+#6(I)[2022-10-17 08:19:48,103]{00000B20}<NvpWatchdog>      Running sessions = 1, user sessions = 1 & service session
+#7(D)[2022-10-17 08:19:48,103]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(D)[2022-10-17 08:19:48,103]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#9(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>    Group =>
+#0(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#1(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#2(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#3(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>        Processes =>
+#4(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildProcess>          Session 5, process 00000000000007B0
+#5(D)[2022-10-17 08:19:48,103]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#6(D)[2022-10-17 08:19:48,103]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#7(I)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>    Run containers for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#8(I)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>    Container 00000000000007B0 for C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session is already running in session 5
+#9(D)[2022-10-17 08:19:48,103]{00000B20}<DirectoryEnumera> Process file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#0(D)[2022-10-17 08:19:48,103]{00000B20}<DirectoryEnumera> OnItem returned FALSE for file C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#1(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>    Group =>
+#2(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>        Folder: C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session
+#3(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>        Container: elevated - C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\NVDisplay.Container.exe
+#4(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>        Parameters: -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nvacegpu.inf_amd64_efe127e721dd1bb8\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session
+#5(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildGroup>        Processes =>
+#6(D)[2022-10-17 08:19:48,103]{00000B20}<NvpChildProcess>          Session 5, process 00000000000007B0
+#7(D)[2022-10-17 08:19:48,103]{00000B20}<NvpWatchdog>      Wait for 4 handles. Timeout = 4294967295
+#8(I)[2022-10-17 08:20:04,728]{00000720}<NvpWatchdog>      Session 5 event 8: Unlock
+#9(I)[2022-10-17 08:20:04,728]{00000720}<NvpWatchdog>      Session 5 event 8: Unlock
+#0(I)[2022-10-17 12:40:51,570]{00000720}<NvpWatchdog>      Session 5 event 7: Lock
+#1(I)[2022-10-17 12:40:51,571]{00000720}<NvpWatchdog>      Session 5 event 7: Lock
+#2(I)[2022-10-17 12:46:39,284]{00000720}<NvpWatchdog>      Session 5 event 8: Unlock
+#3(I)[2022-10-17 12:46:39,284]{00000720}<NvpWatchdog>      Session 5 event 8: Unlock

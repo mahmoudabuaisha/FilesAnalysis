@@ -1,0 +1,492 @@
+﻿2022-09-20 14:12:48.549 1828:00000001 (HD-ComRegistrar) INFO: PID 1828, CLR version 1828
+2022-09-20 14:12:48.616 1828:00000001 (HD-ComRegistrar) INFO: IsAdministrator: True
+2022-09-20 14:12:48.625 1828:00000001 (HD-ComRegistrar) INFO: Invoking Process Details: (Name: BlueStacksInstaller, Pid: 14768)
+2022-09-20 14:12:48.648 1828:00000001 (HD-ComRegistrar) INFO: args: -unreg
+2022-09-20 14:12:48.648 1828:00000001 (HD-ComRegistrar) INFO: Unregistering components
+2022-09-20 14:12:51.245 15116:00000001 (HD-ComRegistrar) INFO: PID 15116, CLR version 15116
+2022-09-20 14:12:51.309 15116:00000001 (HD-ComRegistrar) INFO: IsAdministrator: True
+2022-09-20 14:12:51.321 15116:00000001 (HD-ComRegistrar) INFO: Invoking Process Details: (Name: BlueStacksInstaller, Pid: 14768)
+2022-09-20 14:12:51.341 15116:00000001 (HD-ComRegistrar) INFO: args: -reg
+2022-09-20 14:12:51.341 15116:00000001 (HD-ComRegistrar) INFO: Validating oleaut registries
+2022-09-20 14:12:51.345 15116:00000001 (HD-ComRegistrar) INFO: Trying to fix: classes root - CLSID\{00020420-0000-0000-C000-000000000046}\InProcServer32
+2022-09-20 14:12:51.397 15116:00000001 (HD-ComRegistrar) INFO: Trying to fix: classes root - CLSID\{00020421-0000-0000-C000-000000000046}\InProcServer32
+2022-09-20 14:12:51.397 15116:00000001 (HD-ComRegistrar) INFO: Trying to fix: classes root - CLSID\{00020422-0000-0000-C000-000000000046}\InProcServer32
+2022-09-20 14:12:51.401 15116:00000001 (HD-ComRegistrar) INFO: Trying to fix: classes root - CLSID\{00020423-0000-0000-C000-000000000046}\InProcServer32
+2022-09-20 14:12:51.401 15116:00000001 (HD-ComRegistrar) INFO: Trying to fix: classes root - CLSID\{00020424-0000-0000-C000-000000000046}\InProcServer32
+2022-09-20 14:12:51.401 15116:00000001 (HD-ComRegistrar) INFO: Trying to fix: classes root - CLSID\{00020425-0000-0000-C000-000000000046}\InProcServer32
+2022-09-20 14:12:51.401 15116:00000001 (HD-ComRegistrar) INFO: Oleaut Validation successful
+2022-09-20 14:12:52.760 15348:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-20 14:12:52.829+0300 15348 14692 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-20 14:12:52.829+0300 15348 14692 BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-20 14:12:52.830+0300 15348 14692 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-20 14:12:52.827 15348:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-20 14:12:53.311 15348:00000001 (BlueStacksHelper) INFO: Creating task
+2022-09-20 14:12:53.525+0300 15348 14692 APPC   Helper_bridge W: File C:\ProgramData\BlueStacks_nxt\Engine\Nougat32\AppCache\AppCache.json not present, Error code {0, The operation completed successfully.}
+2022-09-20 14:12:53.537 15348:00000001 (BlueStacksHelper) INFO: RunCmd: Starting: schtasks.exe /Query /FO LIST /V  /TN BlueStacksHelper_nxt
+2022-09-20 14:12:53.599 15348:00000001 (BlueStacksHelper) INFO: RunCmd for pid: 13732, exited with ExitCode: 0 
+2022-09-20 14:12:54.471 15348:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-20 14:12:54.471 15348:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-20 14:17:53.427 11316:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-20 14:17:53.472+0300 11316 14860 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-20 14:17:53.472+0300 11316 14860 BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-20 14:17:53.473+0300 11316 14860 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-20 14:17:53.472 11316:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-20 14:17:53.936 11316:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-20 14:17:54.169 11316:00000001 (BlueStacksHelper) ERROR: The remote name could not be resolved: 'cloud.bluestacks.com'
+2022-09-20 14:17:54.170 11316:00000001 (BlueStacksHelper) ERROR: Couldn't query cloud, ex: The remote name could not be resolved: 'delegate.bluestacks.com'
+2022-09-20 14:17:54.170 11316:00000001 (BlueStacksHelper) INFO: Cloud response: 
+2022-09-20 14:17:54.171 11316:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-20 14:17:54.171 11316:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-20 20:17:53.363 13368:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-20 20:17:53.393+0300 13368 14744 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-20 20:17:53.393+0300 13368 14744 BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-20 20:17:53.395+0300 13368 14744 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-20 20:17:53.399 13368:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-20 20:17:53.468 13368:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-20 20:17:54.569 13368:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-20 20:17:54.599 13368:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-20 20:17:54.599 13368:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-21 13:38:35.991 9776:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-21 13:38:36.145+0300 9776  8368  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-21 13:38:36.145+0300 9776  8368  BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-21 13:38:36.164+0300 9776  8368  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-21 13:38:36.163 9776:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-21 13:38:36.428 9776:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-21 13:38:46.223 9776:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-21 13:38:46.239 9776:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-21 13:38:46.239 9776:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-21 14:17:53.575 12348:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-21 14:17:53.588+0300 12348 15696 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-21 14:17:53.588+0300 12348 15696 BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-21 14:17:53.589+0300 12348 15696 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-21 14:17:53.575 12348:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-21 14:17:53.622 12348:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-21 14:17:54.422 12348:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-21 14:17:54.453 12348:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-21 14:17:54.453 12348:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-21 20:17:53.914 15456:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-21 20:17:53.968+0300 15456 6168  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-21 20:17:53.968+0300 15456 6168  BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-21 20:17:53.971+0300 15456 6168  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-21 20:17:53.976 15456:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-21 20:17:54.214 15456:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-21 20:19:34.397 15456:00000001 (BlueStacksHelper) ERROR: The operation has timed out
+2022-09-21 20:19:45.696 15456:00000001 (BlueStacksHelper) ERROR: Couldn't query cloud, ex: The remote name could not be resolved: 'delegate.bluestacks.com'
+2022-09-21 20:19:45.708 15456:00000001 (BlueStacksHelper) INFO: Cloud response: 
+2022-09-21 20:19:45.708 15456:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-21 20:19:45.709 15456:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-22 18:22:16.702 1368:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-22 18:22:16.739+0300 1368  15444 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-22 18:22:16.739+0300 1368  15444 BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-22 18:22:16.741+0300 1368  15444 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-22 18:22:16.733 1368:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-22 18:22:16.858 1368:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-22 18:22:16.936 1368:00000001 (BlueStacksHelper) ERROR: The remote name could not be resolved: 'cloud.bluestacks.com'
+2022-09-22 18:22:16.936 1368:00000001 (BlueStacksHelper) ERROR: Couldn't query cloud, ex: The remote name could not be resolved: 'delegate.bluestacks.com'
+2022-09-22 18:22:16.936 1368:00000001 (BlueStacksHelper) INFO: Cloud response: 
+2022-09-22 18:22:16.936 1368:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-22 18:22:16.936 1368:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-22 20:17:54.554 7832:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-22 20:17:54.580+0300 7832  6156  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-22 20:17:54.580+0300 7832  6156  BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-22 20:17:54.582+0300 7832  6156  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-22 20:17:54.582 7832:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-22 20:17:54.974 7832:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-22 20:17:56.176 7832:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-22 20:17:56.190 7832:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-22 20:17:56.190 7832:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-23 14:33:24.866 12456:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-23 14:33:24.879+0300 12456 13248 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-23 14:33:24.879+0300 12456 13248 BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-23 14:33:24.882+0300 12456 13248 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-23 14:33:24.882 12456:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-23 14:33:25.010 12456:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-23 14:33:26.488 12456:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-23 14:33:26.514 12456:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-23 14:33:26.515 12456:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-24 10:42:40.136 11680:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-24 10:42:40.359+0300 11680 12264 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-24 10:42:40.359+0300 11680 12264 BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-24 10:42:40.362+0300 11680 12264 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-24 10:42:40.376 11680:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-24 10:42:40.728 11680:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-24 10:42:41.501 11680:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-24 10:42:41.521 11680:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-24 10:42:41.521 11680:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-24 14:17:55.276 8804:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-24 14:17:55.384+0300 8804  8808  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-24 14:17:55.384+0300 8804  8808  BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-24 14:17:55.390+0300 8804  8808  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-24 14:17:55.385 8804:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-24 14:17:55.744 8804:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-24 14:17:56.525 8804:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-24 14:17:56.557 8804:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-24 14:17:56.557 8804:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-24 21:48:13.723 9632:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-24 21:48:13.878+0300 9632  2512  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-24 21:48:13.878+0300 9632  2512  BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-24 21:48:13.885+0300 9632  2512  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-24 21:48:13.891 9632:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-24 21:48:14.031 9632:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-24 21:48:14.138 9632:00000001 (BlueStacksHelper) ERROR: The remote name could not be resolved: 'cloud.bluestacks.com'
+2022-09-24 21:48:14.139 9632:00000001 (BlueStacksHelper) ERROR: Couldn't query cloud, ex: The remote name could not be resolved: 'delegate.bluestacks.com'
+2022-09-24 21:48:14.139 9632:00000001 (BlueStacksHelper) INFO: Cloud response: 
+2022-09-24 21:48:14.139 9632:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-24 21:48:14.139 9632:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-25 11:01:42.338 8324:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-25 11:01:42.450+0300 8324  10452 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-25 11:01:42.450+0300 8324  10452 BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-25 11:01:42.456+0300 8324  10452 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-25 11:01:42.461 8324:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-25 11:01:42.613 8324:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-25 11:01:48.084 8324:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-25 11:01:48.123 8324:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-25 11:01:48.123 8324:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-25 14:17:54.265 7948:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-25 14:17:54.375+0300 7948  10300 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-25 14:17:54.375+0300 7948  10300 BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-25 14:17:54.382+0300 7948  10300 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-25 14:17:54.386 7948:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-25 14:17:54.540 7948:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-25 14:17:55.738 7948:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-25 14:17:55.765 7948:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-25 14:17:55.765 7948:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-26 10:25:23.344 9796:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-26 10:25:23.369+0300 9796  11852 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-26 10:25:23.369+0300 9796  11852 BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-26 10:25:23.372+0300 9796  11852 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-26 10:25:23.376 9796:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-26 10:25:23.532 9796:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-26 10:25:24.462 9796:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-26 10:25:24.477 9796:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-26 10:25:24.477 9796:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-26 14:17:53.871 10148:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-26 14:17:53.894+0300 10148 8480  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-26 14:17:53.894+0300 10148 8480  BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-26 14:17:53.897+0300 10148 8480  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-26 14:17:53.901 10148:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-26 14:17:53.985 10148:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-26 14:17:58.048 10148:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-26 14:17:58.081 10148:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-26 14:17:58.081 10148:00000001 (BlueStacksHelper) INFO: Exiting
+2022-09-27 19:27:20.488 3832:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-09-27 19:27:20.680+0300 3832  4100  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-09-27 19:27:20.680+0300 3832  4100  BRIDGE Helper_bridge I: Loading configuration ...
+2022-09-27 19:27:20.689+0300 3832  4100  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-09-27 19:27:20.700 3832:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-09-27 19:27:21.072 3832:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-09-27 19:27:24.479 3832:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-09-27 19:27:24.518 3832:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-09-27 19:27:24.518 3832:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-01 15:00:08.715 12068:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-01 15:00:08.750+0300 12068 2708  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-01 15:00:08.750+0300 12068 2708  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-01 15:00:08.754+0300 12068 2708  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-01 15:00:08.768 12068:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-01 15:00:09.053 12068:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-01 15:00:09.200 12068:00000001 (BlueStacksHelper) ERROR: The remote name could not be resolved: 'cloud.bluestacks.com'
+2022-10-01 15:00:09.200 12068:00000001 (BlueStacksHelper) ERROR: Couldn't query cloud, ex: The remote name could not be resolved: 'delegate.bluestacks.com'
+2022-10-01 15:00:09.200 12068:00000001 (BlueStacksHelper) INFO: Cloud response: 
+2022-10-01 15:00:09.200 12068:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-01 15:00:09.200 12068:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-01 20:17:53.716 5140:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-01 20:17:53.745+0300 5140  10828 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-01 20:17:53.745+0300 5140  10828 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-01 20:17:53.746+0300 5140  10828 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-01 20:17:53.746 5140:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-01 20:17:53.860 5140:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-01 20:17:55.037 5140:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-01 20:17:55.069 5140:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-01 20:17:55.069 5140:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-02 10:44:01.130 4264:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-02 10:44:01.180+0300 4264  8592  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-02 10:44:01.180+0300 4264  8592  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-02 10:44:01.183+0300 4264  8592  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-02 10:44:01.177 4264:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-02 10:44:01.296 4264:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-02 10:44:01.380 4264:00000001 (BlueStacksHelper) ERROR: The remote name could not be resolved: 'cloud.bluestacks.com'
+2022-10-02 10:44:01.381 4264:00000001 (BlueStacksHelper) ERROR: Couldn't query cloud, ex: The remote name could not be resolved: 'delegate.bluestacks.com'
+2022-10-02 10:44:01.382 4264:00000001 (BlueStacksHelper) INFO: Cloud response: 
+2022-10-02 10:44:01.382 4264:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-02 10:44:01.382 4264:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-02 14:17:53.552 9576:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-02 14:17:53.570+0300 9576  3932  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-02 14:17:53.570+0300 9576  3932  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-02 14:17:53.571+0300 9576  3932  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-02 14:17:53.566 9576:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-02 14:17:53.608 9576:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-02 14:17:54.360 9576:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-02 14:17:54.378 9576:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-02 14:17:54.378 9576:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-03 11:06:53.319 4908:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-03 11:06:53.428+0300 4908  8496  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-03 11:06:53.428+0300 4908  8496  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-03 11:06:53.434+0300 4908  8496  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-03 11:06:53.438 4908:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-03 11:06:53.718 4908:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-03 11:06:54.691 4908:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-03 11:06:54.710 4908:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-03 11:06:54.710 4908:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-03 14:17:54.692 1312:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-03 14:17:54.797+0300 1312  12564 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-03 14:17:54.797+0300 1312  12564 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-03 14:17:54.804+0300 1312  12564 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-03 14:17:54.807 1312:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-03 14:17:54.943 1312:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-03 14:17:59.401 1312:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-03 14:17:59.426 1312:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-03 14:17:59.426 1312:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-04 11:17:46.004 13152:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-04 11:17:46.028+0300 13152 1776  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-04 11:17:46.028+0300 13152 1776  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-04 11:17:46.032+0300 13152 1776  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-04 11:17:46.061 13152:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-04 11:17:46.307 13152:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-04 11:17:47.291 13152:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-04 11:17:47.337 13152:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-04 11:17:47.337 13152:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-04 14:17:53.795 8880:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-04 14:17:53.919+0300 8880  13048 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-04 14:17:53.919+0300 8880  13048 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-04 14:17:53.925+0300 8880  13048 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-04 14:17:53.910 8880:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-04 14:17:54.026 8880:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-04 14:17:55.013 8880:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-04 14:17:55.044 8880:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-04 14:17:55.044 8880:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-05 11:44:20.110 1648:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-05 11:44:20.225+0300 1648  10732 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-05 11:44:20.225+0300 1648  10732 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-05 11:44:20.231+0300 1648  10732 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-05 11:44:20.235 1648:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-05 11:44:20.439 1648:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-05 11:44:21.421 1648:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-05 11:44:21.444 1648:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-05 11:44:21.444 1648:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-05 14:17:53.765 10984:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-05 14:17:53.792+0300 10984 1964  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-05 14:17:53.792+0300 10984 1964  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-05 14:17:53.795+0300 10984 1964  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-05 14:17:53.794 10984:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-05 14:17:53.940 10984:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-05 14:17:54.825 10984:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-05 14:17:54.844 10984:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-05 14:17:54.844 10984:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-06 11:12:39.257 2584:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-06 11:12:39.365+0300 2584  10188 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-06 11:12:39.365+0300 2584  10188 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-06 11:12:39.371+0300 2584  10188 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-06 11:12:39.375 2584:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-06 11:12:39.597 2584:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-06 11:13:11.371 2584:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-06 11:13:11.403 2584:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-06 11:13:11.403 2584:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-06 14:17:53.757 6244:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-06 14:17:53.876+0300 6244  15352 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-06 14:17:53.876+0300 6244  15352 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-06 14:17:53.882+0300 6244  15352 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-06 14:17:53.876 6244:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-06 14:17:54.016 6244:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-06 14:17:55.081 6244:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-06 14:17:55.104 6244:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-06 14:17:55.104 6244:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-07 14:47:38.975 12408:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-07 14:47:38.991+0300 12408 10928 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-07 14:47:38.991+0300 12408 10928 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-07 14:47:38.994+0300 12408 10928 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-07 14:47:38.993 12408:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-07 14:47:39.108 12408:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-07 14:47:40.239 12408:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-07 14:47:40.290 12408:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-07 14:47:40.290 12408:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-07 22:47:51.944 13036:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-07 22:47:52.056+0300 13036 8392  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-07 22:47:52.057+0300 13036 8392  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-07 22:47:52.063+0300 13036 8392  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-07 22:47:52.070 13036:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-07 22:47:52.226 13036:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-07 22:47:53.486 13036:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-07 22:47:53.524 13036:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-07 22:47:53.524 13036:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-08 20:21:56.076 1196:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-08 20:21:56.210+0300 1196  7040  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-08 20:21:56.210+0300 1196  7040  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-08 20:21:56.218+0300 1196  7040  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-08 20:21:56.244 1196:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-08 20:21:56.601 1196:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-08 20:21:58.669 1196:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-08 20:21:58.757 1196:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-08 20:21:58.757 1196:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-09 11:08:09.126 4248:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-09 11:08:09.230+0300 4248  13696 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-09 11:08:09.230+0300 4248  13696 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-09 11:08:09.232+0300 4248  13696 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-09 11:08:09.236 4248:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-09 11:08:09.448 4248:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-09 11:08:10.390 4248:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-09 11:08:10.413 4248:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-09 11:08:10.413 4248:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-09 14:17:53.715 15324:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-09 14:17:53.829+0300 15324 3308  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-09 14:17:53.829+0300 15324 3308  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-09 14:17:53.835+0300 15324 3308  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-09 14:17:53.834 15324:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-09 14:17:53.990 15324:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-09 14:18:10.566 15324:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-09 14:18:10.584 15324:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-09 14:18:10.584 15324:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-10 11:17:26.323 14412:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-10 11:17:26.439+0300 14412 5680  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-10 11:17:26.439+0300 14412 5680  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-10 11:17:26.445+0300 14412 5680  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-10 11:17:26.465 14412:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-10 11:17:26.648 14412:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-10 11:17:28.066 14412:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-10 11:17:28.110 14412:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-10 11:17:28.110 14412:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-10 14:17:53.685 9024:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-10 14:17:53.778+0300 9024  6616  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-10 14:17:53.778+0300 9024  6616  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-10 14:17:53.782+0300 9024  6616  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-10 14:17:53.781 9024:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-10 14:17:53.885 9024:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-10 14:17:54.662 9024:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-10 14:17:54.682 9024:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-10 14:17:54.682 9024:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-11 11:02:32.970 4704:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-11 11:02:33.205+0300 4704  2324  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-11 11:02:33.205+0300 4704  2324  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-11 11:02:33.214+0300 4704  2324  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-11 11:02:33.202 4704:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-11 11:02:33.387 4704:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-11 11:02:35.543 4704:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-11 11:02:35.555 4704:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-11 11:02:35.555 4704:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-11 14:17:54.116 5336:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-11 14:17:54.142+0300 5336  12496 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-11 14:17:54.142+0300 5336  12496 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-11 14:17:54.149+0300 5336  12496 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-11 14:17:54.152 5336:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-11 14:17:54.239 5336:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-11 14:17:55.018 5336:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-11 14:17:55.047 5336:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-11 14:17:55.047 5336:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-12 11:38:30.708 16620:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-12 11:38:30.724+0300 16620 16816 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-12 11:38:30.724+0300 16620 16816 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-12 11:38:30.725+0300 16620 16816 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-12 11:38:30.723 16620:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-12 11:38:31.767 16620:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-12 11:38:32.718 16620:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-12 11:38:32.734 16620:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-12 11:38:32.734 16620:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-12 14:17:53.681 13024:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-12 14:17:53.705+0300 13024 9396  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-12 14:17:53.705+0300 13024 9396  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-12 14:17:53.713+0300 13024 9396  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-12 14:17:53.718 13024:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-12 14:17:53.817 13024:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-12 14:17:54.733 13024:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-12 14:17:54.750 13024:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-12 14:17:54.750 13024:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-12 21:55:07.630 8044:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-12 21:55:07.645+0300 8044  3056  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-12 21:55:07.645+0300 8044  3056  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-12 21:55:07.651+0300 8044  3056  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-12 21:55:07.646 8044:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-12 21:55:07.739 8044:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-12 21:55:08.671 8044:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-12 21:55:08.718 8044:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-12 21:55:08.718 8044:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-13 12:21:29.511 16272:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-13 12:21:29.555+0300 16272 10612 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-13 12:21:29.555+0300 16272 10612 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-13 12:21:29.562+0300 16272 10612 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-13 12:21:29.582 16272:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-13 12:21:29.697 16272:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-13 12:21:32.475 16272:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-13 12:21:32.506 16272:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-13 12:21:32.506 16272:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-13 14:17:54.702 8276:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-13 14:17:54.736+0300 8276  8488  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-13 14:17:54.736+0300 8276  8488  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-13 14:17:54.742+0300 8276  8488  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-13 14:17:54.739 8276:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-13 14:17:54.840 8276:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-13 14:17:55.657 8276:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-13 14:17:55.703 8276:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-13 14:17:55.703 8276:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-13 20:17:53.842 6460:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-13 20:17:53.875+0300 6460  10836 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-13 20:17:53.875+0300 6460  10836 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-13 20:17:53.878+0300 6460  10836 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-13 20:17:53.879 6460:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-13 20:17:54.033 6460:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-13 20:17:55.121 6460:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-13 20:17:55.173 6460:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-13 20:17:55.173 6460:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-14 22:34:43.830 13956:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-14 22:34:43.910+0300 13956 6460  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-14 22:34:43.910+0300 13956 6460  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-14 22:34:43.922+0300 13956 6460  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-14 22:34:43.946 13956:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-14 22:34:44.202 13956:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-14 22:34:44.385 13956:00000001 (BlueStacksHelper) ERROR: The remote name could not be resolved: 'cloud.bluestacks.com'
+2022-10-14 22:34:44.386 13956:00000001 (BlueStacksHelper) ERROR: Couldn't query cloud, ex: The remote name could not be resolved: 'delegate.bluestacks.com'
+2022-10-14 22:34:44.387 13956:00000001 (BlueStacksHelper) INFO: Cloud response: 
+2022-10-14 22:34:44.387 13956:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-14 22:34:44.387 13956:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-15 11:24:40.683 3600:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-15 11:24:40.719+0300 3600  6864  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-15 11:24:40.719+0300 3600  6864  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-15 11:24:40.726+0300 3600  6864  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-15 11:24:40.721 3600:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-15 11:24:40.868 3600:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-15 11:24:42.055 3600:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-15 11:24:42.071 3600:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-15 11:24:42.071 3600:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-15 14:17:53.608 12028:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-15 14:17:53.621+0300 12028 7392  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-15 14:17:53.622+0300 12028 7392  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-15 14:17:53.628+0300 12028 7392  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-15 14:17:53.628 12028:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-15 14:17:53.701 12028:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-15 14:17:54.637 12028:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-15 14:17:54.665 12028:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-15 14:17:54.665 12028:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-16 11:13:26.714 1252:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-16 11:13:26.747+0300 1252  8492  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-16 11:13:26.747+0300 1252  8492  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-16 11:13:26.753+0300 1252  8492  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-16 11:13:26.752 1252:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-16 11:13:27.095 1252:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-16 11:13:28.095 1252:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-16 11:13:28.127 1252:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-16 11:13:28.127 1252:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-16 14:17:53.656 19300:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-16 14:17:53.678+0300 19300 15012 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-16 14:17:53.678+0300 19300 15012 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-16 14:17:53.685+0300 19300 15012 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-16 14:17:53.689 19300:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-16 14:17:53.782 19300:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-16 14:17:54.687 19300:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-16 14:17:54.707 19300:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-16 14:17:54.707 19300:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-17 11:22:35.713 5440:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-17 11:22:35.736+0300 5440  12220 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-17 11:22:35.736+0300 5440  12220 BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-17 11:22:35.738+0300 5440  12220 BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-17 11:22:35.741 5440:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-17 11:22:36.011 5440:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-17 11:22:37.019 5440:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-17 11:22:37.042 5440:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-17 11:22:37.042 5440:00000001 (BlueStacksHelper) INFO: Exiting
+2022-10-17 14:17:53.652 13304:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2022-10-17 14:17:53.668+0300 13304 5008  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2022-10-17 14:17:53.668+0300 13304 5008  BRIDGE Helper_bridge I: Loading configuration ...
+2022-10-17 14:17:53.673+0300 13304 5008  BRIDGE Helper_bridge I: Configuration loaded successfully...
+2022-10-17 14:17:53.677 13304:00000001 (BlueStacksHelper) INFO: BridgeApi inited: 0
+2022-10-17 14:17:53.757 13304:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2022-10-17 14:17:54.748 13304:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2022-10-17 14:17:54.784 13304:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2022-10-17 14:17:54.784 13304:00000001 (BlueStacksHelper) INFO: Exiting

@@ -1,0 +1,15 @@
+Performing a replace request
+PATCH DIRECTORY C:\ProgramData\Mozilla-1de4eec8-1241-4177-a864-e594e8d1fb38\updates\308046B0AF4A39CB\updates\0
+INSTALLATION DIRECTORY C:\Program Files\Mozilla Firefox
+WORKING DIRECTORY C:\Program Files\Mozilla Firefox\updated
+Begin moving destDir (C:\Program Files\Mozilla Firefox) to tmpDir (C:\Program Files\Mozilla Firefox.bak)
+rename_file: proceeding to rename the directory
+Begin moving newDir (C:\Program Files\Mozilla Firefox.bak/updated) to destDir (C:\Program Files\Mozilla Firefox)
+rename_file: proceeding to rename the directory
+Now, remove the tmpDir
+ensure_remove: failed to remove file: C:\Program Files\Mozilla Firefox.bak/updater.exe, rv: -1, err: 13
+ensure_remove_recursive: unable to remove directory: C:\Program Files\Mozilla Firefox.bak, rv: -1, err: 41
+Removing tmpDir failed, err: -1
+remove_recursive_on_reboot: file will be removed on OS reboot: C:\Program Files\Mozilla Firefox\tobedeleted\rep72e1f803-91ce-4398-a424-4948d6e97764
+succeeded
+calling QuitProgressUI

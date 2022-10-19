@@ -1,0 +1,127 @@
+Files Processed:
+	C:\windows\panther\setup.etl
+Total Buffers Processed 113
+Total Events  Processed 1869
+Total Events  Lost      0
+Start Time              Monday, September 19, 2022
+End Time                Monday, September 19, 2022
+Elapsed Time            81 sec
++-------------------------------------------------------------------------------------------------------------------------+
+|Event Count   Event Name           Task            Opcode          Version         Guid                                  |
++-------------------------------------------------------------------------------------------------------------------------+
+|          1   EventTrace           0               PartitionInfoExtensionV2 2               {68fdd900-4a3e-11d1-84f4-0000f80464e3}|
+|          1   EventTrace           0               Header          2               {68fdd900-4a3e-11d1-84f4-0000f80464e3}|
+|          1   Microsoft-Windows-Kernel-General  5               Info            2               {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d}|
+|          3   Microsoft-Windows-Kernel-General  11              Info            0               {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d}|
+|          2   Microsoft-Windows-Kernel-General  6               Info            0               {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d}|
+|          2   Microsoft-Windows-SetupCl  1000            Stop            0               {75ebc33e-d017-4d0f-93ab-0b4f86579164}|
+|          2   Microsoft-Windows-SetupCl  1000            Start           0               {75ebc33e-d017-4d0f-93ab-0b4f86579164}|
+|         47   Microsoft-Windows-SetupCl  1000            Info            0               {75ebc33e-d017-4d0f-93ab-0b4f86579164}|
+|          5   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  200             0               0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|          7   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  201             0               0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|          2   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  101             Stop            0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|         12   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  107             Stop            0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|        179   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  103             Stop            0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|        304   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  202             0               0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|        997   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  105             StatusChange    0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|        179   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  103             Start           0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|          2   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  107             Start           0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|          2   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  101             Start           0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|          2   Microsoft-Windows-Windeploy  1000            Stop            0               {75ebc33e-c8ae-4f93-9ca1-683a53e20cb6}|
+|          2   Microsoft-Windows-Windeploy  2000            Stop            0               {75ebc33e-c8ae-4f93-9ca1-683a53e20cb6}|
+|          2   Microsoft-Windows-Windeploy  2000            Start           0               {75ebc33e-c8ae-4f93-9ca1-683a53e20cb6}|
+|          2   Microsoft-Windows-Windeploy  1000            Start           0               {75ebc33e-c8ae-4f93-9ca1-683a53e20cb6}|
+|          1   Microsoft-Windows-Setup  1000            Stop            0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Setup  4000            Info            0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Setup  3000            Info            0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Setup  2000            Stop            0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Setup  2000            Start           0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Setup  1000            Start           0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Sysprep  1000            Start           0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|         20   Microsoft-Windows-Sysprep  2000            Stop            0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|         20   Microsoft-Windows-Sysprep  2000            Start           0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|         23   Microsoft-Windows-Sysprep  4000            Stop            0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|         23   Microsoft-Windows-Sysprep  4000            Start           0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|          1   Microsoft-Windows-Sysprep  3000            Stop            0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|          1   Microsoft-Windows-Sysprep  3000            Start           0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|          1   Microsoft-Windows-Deplorch  1000            Stop            0               {b9da9fe6-ae5f-4f3e-b2fa-8e623c11dc75}|
+|          1   Microsoft-Windows-Deplorch  1000            Start           0               {b9da9fe6-ae5f-4f3e-b2fa-8e623c11dc75}|
+|          1   Microsoft-Windows-CmiSetup  1000            Stop            0               {75ebc33e-0cc6-49da-8cd9-8903a5222aa0}|
+|          1   Microsoft-Windows-CmiSetup  3000            Stop            0               {75ebc33e-0cc6-49da-8cd9-8903a5222aa0}|
+|          1   Microsoft-Windows-CmiSetup  3000            Start           0               {75ebc33e-0cc6-49da-8cd9-8903a5222aa0}|
+|          1   Microsoft-Windows-CmiSetup  1000            Start           0               {75ebc33e-0cc6-49da-8cd9-8903a5222aa0}|
+|          1   Microsoft-Windows-OobeLdr  1000            Stop            0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OobeLdr  3000            Stop            0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OobeLdr  3000            Start           0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OobeLdr  2000            Stop            0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OobeLdr  2000            Start           0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OobeLdr  1000            Start           0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  6100            Stop            0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  6102            Info            0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  6103            Info            0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  6117            Info            0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  6101            Info            0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  6100            Start           0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
++-------------------------------------------------------------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------------+
+|Event Count   Event Name           Event ID        Version         Guid                                  |
++---------------------------------------------------------------------------------------------------------+
+|          2   EventTrace           0               2               {68fdd900-4a3e-11d1-84f4-0000f80464e3}|
+|          1   Microsoft-Windows-Kernel-General  1               2               {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d}|
+|          2   Microsoft-Windows-Kernel-General  20              0               {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d}|
+|          3   Microsoft-Windows-Kernel-General  24              0               {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d}|
+|         18   Microsoft-Windows-SetupCl  1               0               {75ebc33e-d017-4d0f-93ab-0b4f86579164}|
+|         27   Microsoft-Windows-SetupCl  3               0               {75ebc33e-d017-4d0f-93ab-0b4f86579164}|
+|          1   Microsoft-Windows-SetupCl  8               0               {75ebc33e-d017-4d0f-93ab-0b4f86579164}|
+|          1   Microsoft-Windows-SetupCl  9               0               {75ebc33e-d017-4d0f-93ab-0b4f86579164}|
+|          1   Microsoft-Windows-SetupCl  18              0               {75ebc33e-d017-4d0f-93ab-0b4f86579164}|
+|          1   Microsoft-Windows-SetupCl  19              0               {75ebc33e-d017-4d0f-93ab-0b4f86579164}|
+|          1   Microsoft-Windows-SetupCl  29              0               {75ebc33e-d017-4d0f-93ab-0b4f86579164}|
+|          1   Microsoft-Windows-SetupCl  30              0               {75ebc33e-d017-4d0f-93ab-0b4f86579164}|
+|          2   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  101             0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|          2   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  102             0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|        179   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  103             0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|        179   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  104             0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|        997   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  105             0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|          2   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  106             0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|         12   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  107             0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|          5   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  200             0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|          7   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  201             0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|        144   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  204             0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|        160   Microsoft-Windows-Service Control Manager Performance Diagnostic Provider  205             0               {0063715b-eeda-4007-9429-ad526f62696e}|
+|          2   Microsoft-Windows-Windeploy  1001            0               {75ebc33e-c8ae-4f93-9ca1-683a53e20cb6}|
+|          2   Microsoft-Windows-Windeploy  1002            0               {75ebc33e-c8ae-4f93-9ca1-683a53e20cb6}|
+|          2   Microsoft-Windows-Windeploy  2001            0               {75ebc33e-c8ae-4f93-9ca1-683a53e20cb6}|
+|          2   Microsoft-Windows-Windeploy  2002            0               {75ebc33e-c8ae-4f93-9ca1-683a53e20cb6}|
+|          1   Microsoft-Windows-Setup  1001            0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Setup  1002            0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Setup  2001            0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Setup  2002            0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Setup  2003            0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Setup  2004            0               {75ebc33e-997f-49cf-b49f-ecc50184b75d}|
+|          1   Microsoft-Windows-Sysprep  1001            0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|         20   Microsoft-Windows-Sysprep  2001            0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|         20   Microsoft-Windows-Sysprep  2002            0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|          1   Microsoft-Windows-Sysprep  3001            0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|          1   Microsoft-Windows-Sysprep  3002            0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|         23   Microsoft-Windows-Sysprep  4001            0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|         23   Microsoft-Windows-Sysprep  4002            0               {75ebc33e-77b8-4ba8-9474-4f4a9db2f5c6}|
+|          1   Microsoft-Windows-Deplorch  1001            0               {b9da9fe6-ae5f-4f3e-b2fa-8e623c11dc75}|
+|          1   Microsoft-Windows-Deplorch  1002            0               {b9da9fe6-ae5f-4f3e-b2fa-8e623c11dc75}|
+|          1   Microsoft-Windows-CmiSetup  1001            0               {75ebc33e-0cc6-49da-8cd9-8903a5222aa0}|
+|          1   Microsoft-Windows-CmiSetup  1002            0               {75ebc33e-0cc6-49da-8cd9-8903a5222aa0}|
+|          1   Microsoft-Windows-CmiSetup  3001            0               {75ebc33e-0cc6-49da-8cd9-8903a5222aa0}|
+|          1   Microsoft-Windows-CmiSetup  3002            0               {75ebc33e-0cc6-49da-8cd9-8903a5222aa0}|
+|          1   Microsoft-Windows-OobeLdr  1001            0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OobeLdr  1002            0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OobeLdr  2001            0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OobeLdr  2002            0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OobeLdr  3001            0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OobeLdr  3002            0               {75ebc33e-8670-4eb6-b535-3b9d6bb222fd}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  5100            0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  5105            0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  5106            0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  5107            0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  5108            0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
+|          1   Microsoft-Windows-OOBE-Machine-DUI  5123            0               {f5dbaa02-15d6-4644-a784-7032d508bf64}|
++---------------------------------------------------------------------------------------------------------+
